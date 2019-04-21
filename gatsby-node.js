@@ -17,13 +17,7 @@ exports.onCreateNode = ({node, actions, getNode}) => {
   switch (node.internal.type) {
     case `MarkdownRemark`:
       const fileNode = getNode(node.parent);
-      // Console.log(fileNode.relativePath)
-      // const [basePath, name] = fileNode.relativePath.split('/');
       slug = '/' + fileNode.relativePath.replace('/index.md', '/');
-      console.log(slug);
-      // Slug = `/${fileNode.relativePath}/`;
-      // const [basePath, name] = fileNode.relativePath.split('/');
-      // slug = `/${basePath}/${name}/`;
       break;
   }
   if (slug) {
@@ -72,8 +66,6 @@ exports.createPages = ({graphql, actions}) => {
       posts
         .filter(post => post.fields.slug.startsWith('/'))
         .forEach(post => {
-          // Console.log(JSON.stringify(post, null, 2))
-          // console.log(post.fields.slug)
           createPage({
             path: post.fields.slug,
             component: slash(templates.articlePost),
