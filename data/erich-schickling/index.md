@@ -3,11 +3,11 @@ title: Erich Schickling
 images:
   - link: http://www.google.com
     file: g-grueneguenzlandschaft.jpg
-  - link: 2
+  - link: #
     file: g-erich.jpg
-  - link: 3
+  - link: #
     file: g-orpheuseurydike.jpg
-  - link: 4
+  - link: #
     file: g-leo.jpg
 thought: /bildgedanken/032919pythiafranziskus/
 subnav:

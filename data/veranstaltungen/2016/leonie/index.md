@@ -3,7 +3,7 @@ layout: image
 image: image.jpg
 ---
 
-\#Recital für Schlagzeug Solo
+# Recital für Schlagzeug Solo
 mit Leonie Klein 
 
 **Samstag, 10. September 2016 um 18.00 Uhr** 

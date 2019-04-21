@@ -1,11 +1,11 @@
 ---
 title: Vita
 images:
-  - link: 2
+  - link: #
     file: g-europa.jpg
-  - link: 3
+  - link: #
     file: g-erichostermorgen.jpg
-  - link: 4
+  - link: #
     file: g-meditationsraum.jpg
 subnav:
   - text: Der Künstler

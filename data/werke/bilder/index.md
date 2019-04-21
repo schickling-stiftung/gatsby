@@ -7,8 +7,6 @@ images:
    file: g-gruene-guenzlandschaft.jpg
  - link: /werke/bilder/europa-und-stier/
    file: g-europa-und-stier.jpg
- - link: #
-   file: 
 thought: /bildgedanken/winter-2017/
 subnav:
   - text: Kirchen
