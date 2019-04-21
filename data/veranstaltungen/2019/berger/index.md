@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#Sterntropfen - Festlicher Abschluß des österlichen Jubiläumswochenendes

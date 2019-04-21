@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#Werkverzeichnis Erich Schickling

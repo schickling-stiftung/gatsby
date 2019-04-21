@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 # Samstag, 9. September um 18 Uhr  Kammermusikabend mit dem Pianisten Andrej Jussow und Studierenden der Hochschule für Musik Karlsruhe

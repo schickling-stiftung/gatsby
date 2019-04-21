@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 # „Die Weise von Liebe und Tod des Cornets Christoph Rilke“

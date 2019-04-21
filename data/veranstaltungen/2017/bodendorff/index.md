@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#Musik nach der Führung

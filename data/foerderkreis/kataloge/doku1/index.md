@@ -1,6 +1,7 @@
 ---
 title: Erich-Schickling-Stiftung 1
 layout: image
+image: image.jpg
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

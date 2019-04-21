@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 Eintritt: 10 €, ermäßigt 8 €

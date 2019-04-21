@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#„Finsternis und Licht“ – eine Matinée in Wort und Musik   

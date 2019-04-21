@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 **Zum Muttertag am Sonntag, den 8. Mai um 15 Uhr** 

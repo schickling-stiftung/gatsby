@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#Lesung und Musik vor dem Palmsonntag  

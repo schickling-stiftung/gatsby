@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#Markus Noichl in der MZ vom 22.9.2016  

@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#„Fantasie und Transzendenz als verwandelnde Kraft der Musik“

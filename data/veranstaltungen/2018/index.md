@@ -13,9 +13,9 @@ images:
     file: g-berger.jpg
 thought: /bildgedanken/012019labyrinth/
 subnav:
-  - text: 2018
+  - text: '2018'
     link: /veranstaltungen/2018/
-  - text: 2019
+  - text: '2019'
     link: /veranstaltungen/2019/
 ---
 

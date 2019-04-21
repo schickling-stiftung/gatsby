@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 # Samstag, 12. September um 18 Uhr  Klavierabend Andrej Jussow

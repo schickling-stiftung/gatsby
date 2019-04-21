@@ -1,6 +1,7 @@
 ---
 title: Dame mit Mandoline
 layout: image
+image: image.jpg
 ---
 
 GLÜCK

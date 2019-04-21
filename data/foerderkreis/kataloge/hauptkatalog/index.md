@@ -1,6 +1,7 @@
 ---
 title: Hauptkatalog
 layout: image
+image: image.jpg
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

@@ -1,6 +1,7 @@
 ---
 title: Saul und David
 layout: image
+image: image.jpg
 ---
 
 # Altenstadt Pfarrkirche Heilige Familie

@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#Drittes und letztes Konzert der Großfamilie Hopfenzitz

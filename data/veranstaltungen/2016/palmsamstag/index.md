@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 Samstag, den 19. März um 18 Uhr

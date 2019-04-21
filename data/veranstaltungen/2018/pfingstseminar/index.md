@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#Heilsame Kunst.             Spiritual Care in Musik, Malerei und Architektur   

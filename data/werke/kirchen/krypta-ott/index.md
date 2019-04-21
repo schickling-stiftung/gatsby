@@ -1,6 +1,7 @@
 ---
 title: Ottobeuren
 layout: image
+image: image.jpg
 subnav:
   - text: Kirchen
     link: /werke/kirchen/
@@ -14,6 +15,6 @@ subnav:
 
 # Krypta der Basilika: Bruder-Klaus-Glasfenster
 
-  Detail: König David aus dem Stammbaum Jesu
+Detail: König David aus dem Stammbaum Jesu
 
 1987 Schöpfungsfenster in Anlehnung an das Meditationsbild des Hl. Nikolaus von der Flüe

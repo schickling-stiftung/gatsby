@@ -13,9 +13,9 @@ images:
     file: g-pfingsten.jpg
 thought: /bildgedanken/mariaehimmelfahrt2017/
 subnav:
-  - text: 2017
+  - text: '2017'
     link: /veranstaltungen/2017/
-  - text: 2018
+  - text: '2018'
     link: /veranstaltungen/2018/
 ---
 

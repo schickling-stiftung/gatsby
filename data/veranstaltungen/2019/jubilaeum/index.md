@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#20 Jahre Erich-Schickling-Stiftung 

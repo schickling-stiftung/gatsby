@@ -1,6 +1,7 @@
 ---
 title: Weihnachten 2015
 layout: image
+image: image.jpg
 ---
 
 Weihnachten und Anbetung der Könige

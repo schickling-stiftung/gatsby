@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 Josef Bichlmair an der Zither begann seine musikalische Entwicklung typisch in der traditionellen Volksmusik. Er gehört aber bald zu einem Kreis experimentierfreudiger Zitherinstrumentalisten, die beginnend in den 1980er Jahren diesem Instrument über die Tradition hinausgehende Möglichkeiten erschließen konnten. Josef Bichlmairs Spiel berührt dabei viele Stilrichtungen, bis hin zu experimentellen Musikansätzen. In der Gruppe „Legato“ integriert er in originärer Weise sein Instrument in die Sphäre der Klezmer-Musik.

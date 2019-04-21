@@ -1,18 +1,18 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
 import { Container, Segment } from 'semantic-ui-react'
-import { TemplateArticlePostQuery } from '../graphql-types'
+import { TemplateArticleImageQuery } from '../graphql-types'
 import { DiscussionEmbed } from 'disqus-react'
 import { withLayout, LayoutProps } from '../components/Layout'
 import { graphql } from 'gatsby'
 import Nav from '../components/Nav'
-import Helmet from 'react-helmet'
+import { Helmet } from 'react-helmet'
 
-interface ArticlePostProps extends LayoutProps {
-  data: TemplateArticlePostQuery
+interface ArticleImageProps extends LayoutProps {
+  data: TemplateArticleImageQuery
 }
 
-const ArticlePostPage = (props: ArticlePostProps) => {
+const ArticleImagePage = (props: ArticleImageProps) => {
   const { frontmatter, html } = props.data.post
 
   return (
@@ -20,9 +20,7 @@ const ArticlePostPage = (props: ArticlePostProps) => {
       <Helmet defaultTitle={`${frontmatter.title} - Schickling Stiftung`} />
       <div id="main">
         <div id="header">
-          <div id="headerImage">
-            {/* <img src={props.data.post.fields.header} alt="" /> */}
-          </div>
+          <div id="headerImage" />
           <div id="logoWrapper">
             <div id="logo" />
             <div id="logoTitle">Begegnung von Kunst und Religion</div>
@@ -30,7 +28,7 @@ const ArticlePostPage = (props: ArticlePostProps) => {
         </div>
         <Nav />
         <div id="recentHead">Aktuelles</div>
-        <div id="contentWrapper">
+        <div id="contentWrapper" style={{ padding: 0 }}>
           <div id="subnav">
             <ul>
               {frontmatter.subnav &&
@@ -48,7 +46,18 @@ const ArticlePostPage = (props: ArticlePostProps) => {
                 ))}
             </ul>
           </div>
-          <div id="content" className="text">
+          <div id="imageContent">
+            <img src={frontmatter.image.childImageSharp.resize.src} />
+          </div>
+          <div
+            id="recent"
+            className="text"
+            dangerouslySetInnerHTML={{ __html: props.data.aktuelles.html }}
+          />
+        </div>
+        <div id="imageFooter">
+          <div id="imageTitle">{frontmatter.title}</div>
+          <div id="imageText" className="text">
             <Segment
               vertical
               style={{ border: 'none' }}
@@ -57,60 +66,31 @@ const ArticlePostPage = (props: ArticlePostProps) => {
               }}
             />
           </div>
-          <div
-            id="recent"
-            className="text"
-            dangerouslySetInnerHTML={{ __html: props.data.aktuelles.html }}
-          />
-        </div>
-        <div id="footer">
-          <div id="gallery">
-            {frontmatter.images &&
-              frontmatter.images.map(({ file }) => (
-                <a
-                  href={file.childImageSharp.original.src}
-                  key={file.childImageSharp.original.src}
-                >
-                  <img src={file.childImageSharp.original.src} />
-                </a>
-              ))}
-          </div>
-          {frontmatter.thought && (
-            <div id="footerNote">
-              <Link to={frontmatter.thought}>Bildgedanke</Link>
-            </div>
-          )}
         </div>
       </div>
     </Container>
   )
 }
 
-export default withLayout(ArticlePostPage)
+export default withLayout(ArticleImagePage)
 
 export const pageQuery = graphql`
-  query TemplateArticlePost($slug: String!) {
+  query TemplateArticleImage($slug: String!) {
     aktuelles: markdownRemark(fields: { slug: { eq: "/aktuelles.md" } }) {
       html
     }
     post: markdownRemark(fields: { slug: { eq: $slug } }) {
       html
-      # fields {
-      #   header
-      # }
       frontmatter {
         title
-        thought
         subnav {
           link
           text
         }
-        images {
-          file {
-            childImageSharp {
-              original {
-                src
-              }
+        image {
+          childImageSharp {
+            resize(width: 600) {
+              src
             }
           }
         }

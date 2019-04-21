@@ -13,9 +13,9 @@ images:
     file: g-publikum.jpg
 thought: /bildgedanken/passion2017/
 subnav:
-  - text: 2016
+  - text: '2016'
     link: /veranstaltungen/2016/
-  - text: 2017
+  - text: '2017'
     link: /veranstaltungen/2017/
 ---
 

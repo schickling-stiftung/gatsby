@@ -1,6 +1,7 @@
 ---
 title: Benedikt
 layout: image
+image: image.jpg
 ---
 
 # Altarkreuz

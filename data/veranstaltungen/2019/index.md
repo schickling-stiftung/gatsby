@@ -9,9 +9,9 @@ images:
     file: g-franziskus.jpg  
 thought: /bildgedanken/032919pythiafranziskus/
 subnav:
-  - text: 2018
+  - text: '2018'
     link: /veranstaltungen/2018/
-  - text: 2019
+  - text: '2019'
     link: /veranstaltungen/2019/
 ---
 

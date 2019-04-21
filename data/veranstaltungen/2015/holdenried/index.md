@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 # Konzert mit dem Günztaler Kinder-Teenie-Chor

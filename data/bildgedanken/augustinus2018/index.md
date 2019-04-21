@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 "Kind, was machst du mit deinem Löffel am Meeresufer?" fragt der Hl. Augustinus das Kind. "Ich schöpfe das Meer in mein Gefäß". "Wie soll das gehen?" 

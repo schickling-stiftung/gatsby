@@ -1,6 +1,7 @@
 ---
 title: Altenstadt a.d. Waldnaab
 layout: image
+image: image.jpg
 subnav:
   - text: Kirchen
     link: /werke/kirchen/

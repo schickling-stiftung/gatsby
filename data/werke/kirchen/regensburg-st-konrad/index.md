@@ -1,6 +1,7 @@
 ---
 title: Regensburg St.Konrad
 layout: image
+image: image.jpg
 subnav:
   - text: Kirchen
     link: /werke/kirchen/

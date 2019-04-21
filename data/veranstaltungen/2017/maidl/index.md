@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#„Bis der Atem allen und jedem gehört“ 

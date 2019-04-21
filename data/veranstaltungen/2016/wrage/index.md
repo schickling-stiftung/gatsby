@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#"Im Gleichnis des Transzendenten in mir und in allem innezuwerden"

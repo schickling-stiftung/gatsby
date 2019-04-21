@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 # Konzert mit Prof. Julius Berger am Sonntag, 19. April 2015 um 17 Uhr

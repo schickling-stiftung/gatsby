@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#Freitag bis Sonntag 11. - 13. September  

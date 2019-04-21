@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#"17. Eggisrieder Seminar für „Musik und Transzendenz“"   

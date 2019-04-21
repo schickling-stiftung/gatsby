@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#Juwelen der Literatur für Violine solo mit Michael Grube (Ecuador/ Überlingen)

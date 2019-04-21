@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 \#„Die Schöne Müllerin“ von Franz Schubert 

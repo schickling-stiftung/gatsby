@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 # Der Glockenturm neben der Hauskapelle in Eggisried

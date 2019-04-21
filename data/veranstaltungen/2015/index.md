@@ -11,9 +11,9 @@ images:
     file: g-koenig-david-blumen.jpg
 thought: /bildgedanken/damemandoline2015/
 subnav:
-  - text: 2015
+  - text: '2015'
     link: /veranstaltungen/2015/
-  - text: 2016
+  - text: '2016'
     link: /veranstaltungen/2016/
 ---
 

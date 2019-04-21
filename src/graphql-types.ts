@@ -35,7 +35,7 @@ export type DateQueryOperatorInput = {
 export type Directory = Node & {
   id: Scalars["ID"];
   parent?: Maybe<Node>;
-  children: Node[];
+  children: Array<Node>;
   internal: Internal;
   sourceInstanceName?: Maybe<Scalars["String"]>;
   absolutePath?: Maybe<Scalars["String"]>;
@@ -130,11 +130,11 @@ export type DirectoryBirthtimeArgs = {
 
 export type DirectoryConnection = {
   totalCount: Scalars["Int"];
-  edges: DirectoryEdge[];
-  nodes: Directory[];
+  edges: Array<DirectoryEdge>;
+  nodes: Array<Directory>;
   pageInfo: PageInfo;
   distinct: Array<Scalars["String"]>;
-  group: DirectoryGroupConnection[];
+  group: Array<DirectoryGroupConnection>;
 };
 
 export type DirectoryConnectionDistinctArgs = {
@@ -272,7 +272,7 @@ export enum DirectoryFieldsEnum {
   Atime = "atime",
   Mtime = "mtime",
   Ctime = "ctime",
-  Birthtime = "birthtime",
+  Birthtime = "birthtime"
 }
 
 export type DirectoryFilterInput = {
@@ -317,8 +317,8 @@ export type DirectoryFilterInput = {
 
 export type DirectoryGroupConnection = {
   totalCount: Scalars["Int"];
-  edges: DirectoryEdge[];
-  nodes: Directory[];
+  edges: Array<DirectoryEdge>;
+  nodes: Array<Directory>;
   pageInfo: PageInfo;
   field: Scalars["String"];
   fieldValue?: Maybe<Scalars["String"]>;
@@ -337,13 +337,13 @@ export type DuotoneGradient = {
 
 export enum ExcerptFormats {
   Plain = "PLAIN",
-  Html = "HTML",
+  Html = "HTML"
 }
 
 export type File = Node & {
   id: Scalars["ID"];
   parent?: Maybe<Node>;
-  children: Node[];
+  children: Array<Node>;
   internal: Internal;
   sourceInstanceName?: Maybe<Scalars["String"]>;
   absolutePath?: Maybe<Scalars["String"]>;
@@ -442,11 +442,11 @@ export type FileBirthtimeArgs = {
 
 export type FileConnection = {
   totalCount: Scalars["Int"];
-  edges: FileEdge[];
-  nodes: File[];
+  edges: Array<FileEdge>;
+  nodes: Array<File>;
   pageInfo: PageInfo;
   distinct: Array<Scalars["String"]>;
-  group: FileGroupConnection[];
+  group: Array<FileGroupConnection>;
 };
 
 export type FileConnectionDistinctArgs = {
@@ -585,7 +585,7 @@ export enum FileFieldsEnum {
   Mtime = "mtime",
   Ctime = "ctime",
   Birthtime = "birthtime",
-  PublicUrl = "publicURL",
+  PublicUrl = "publicURL"
 }
 
 export type FileFilterInput = {
@@ -631,8 +631,8 @@ export type FileFilterInput = {
 
 export type FileGroupConnection = {
   totalCount: Scalars["Int"];
-  edges: FileEdge[];
-  nodes: File[];
+  edges: Array<FileEdge>;
+  nodes: Array<File>;
   pageInfo: PageInfo;
   field: Scalars["String"];
   fieldValue?: Maybe<Scalars["String"]>;
@@ -660,7 +660,7 @@ export enum HeadingLevels {
   H3 = "h3",
   H4 = "h4",
   H5 = "h5",
-  H6 = "h6",
+  H6 = "h6"
 }
 
 export enum ImageCropFocus {
@@ -674,20 +674,20 @@ export enum ImageCropFocus {
   West = "WEST",
   Northwest = "NORTHWEST",
   Entropy = "ENTROPY",
-  Attention = "ATTENTION",
+  Attention = "ATTENTION"
 }
 
 export enum ImageFormat {
   NoChange = "NO_CHANGE",
   Jpg = "JPG",
   Png = "PNG",
-  Webp = "WEBP",
+  Webp = "WEBP"
 }
 
 export type ImageSharp = Node & {
   id: Scalars["ID"];
   parent?: Maybe<Node>;
-  children: Node[];
+  children: Array<Node>;
   internal: Internal;
   fixed?: Maybe<ImageSharpFixed>;
   resolutions?: Maybe<ImageSharpResolutions>;
@@ -766,11 +766,11 @@ export type ImageSharpResizeArgs = {
 
 export type ImageSharpConnection = {
   totalCount: Scalars["Int"];
-  edges: ImageSharpEdge[];
-  nodes: ImageSharp[];
+  edges: Array<ImageSharpEdge>;
+  nodes: Array<ImageSharp>;
   pageInfo: PageInfo;
   distinct: Array<Scalars["String"]>;
-  group: ImageSharpGroupConnection[];
+  group: Array<ImageSharpGroupConnection>;
 };
 
 export type ImageSharpConnectionDistinctArgs = {
@@ -924,7 +924,7 @@ export enum ImageSharpFieldsEnum {
   ResizeWidth = "resize___width",
   ResizeHeight = "resize___height",
   ResizeAspectRatio = "resize___aspectRatio",
-  ResizeOriginalName = "resize___originalName",
+  ResizeOriginalName = "resize___originalName"
 }
 
 export type ImageSharpFilterInput = {
@@ -994,8 +994,8 @@ export type ImageSharpFluidFilterInput = {
 
 export type ImageSharpGroupConnection = {
   totalCount: Scalars["Int"];
-  edges: ImageSharpEdge[];
-  nodes: ImageSharp[];
+  edges: Array<ImageSharpEdge>;
+  nodes: Array<ImageSharp>;
   pageInfo: PageInfo;
   field: Scalars["String"];
   fieldValue?: Maybe<Scalars["String"]>;
@@ -1147,7 +1147,7 @@ export type MarkdownHeadingFilterListInput = {
 export type MarkdownRemark = Node & {
   id: Scalars["ID"];
   parent?: Maybe<Node>;
-  children: Node[];
+  children: Array<Node>;
   internal: Internal;
   frontmatter?: Maybe<MarkdownRemarkFrontmatter>;
   excerpt?: Maybe<Scalars["String"]>;
@@ -1186,11 +1186,11 @@ export type MarkdownRemarkTableOfContentsArgs = {
 
 export type MarkdownRemarkConnection = {
   totalCount: Scalars["Int"];
-  edges: MarkdownRemarkEdge[];
-  nodes: MarkdownRemark[];
+  edges: Array<MarkdownRemarkEdge>;
+  nodes: Array<MarkdownRemark>;
   pageInfo: PageInfo;
   distinct: Array<Scalars["String"]>;
-  group: MarkdownRemarkGroupConnection[];
+  group: Array<MarkdownRemarkGroupConnection>;
 };
 
 export type MarkdownRemarkConnectionDistinctArgs = {
@@ -1211,6 +1211,7 @@ export type MarkdownRemarkEdge = {
 
 export type MarkdownRemarkFields = {
   slug?: Maybe<Scalars["String"]>;
+  header?: Maybe<Scalars["String"]>;
 };
 
 export enum MarkdownRemarkFieldsEnum {
@@ -1340,12 +1341,62 @@ export enum MarkdownRemarkFieldsEnum {
   FrontmatterImagesFilePublicUrl = "frontmatter___images___file___publicURL",
   FrontmatterThought = "frontmatter___thought",
   FrontmatterSubnav = "frontmatter___subnav",
+  FrontmatterSubnavText = "frontmatter___subnav___text",
   FrontmatterSubnavLink = "frontmatter___subnav___link",
   FrontmatterLayout = "frontmatter___layout",
+  FrontmatterImageId = "frontmatter___image___id",
+  FrontmatterImageParentId = "frontmatter___image___parent___id",
+  FrontmatterImageParentChildren = "frontmatter___image___parent___children",
+  FrontmatterImageChildren = "frontmatter___image___children",
+  FrontmatterImageChildrenId = "frontmatter___image___children___id",
+  FrontmatterImageChildrenChildren = "frontmatter___image___children___children",
+  FrontmatterImageInternalContent = "frontmatter___image___internal___content",
+  FrontmatterImageInternalContentDigest = "frontmatter___image___internal___contentDigest",
+  FrontmatterImageInternalDescription = "frontmatter___image___internal___description",
+  FrontmatterImageInternalFieldOwners = "frontmatter___image___internal___fieldOwners",
+  FrontmatterImageInternalIgnoreType = "frontmatter___image___internal___ignoreType",
+  FrontmatterImageInternalMediaType = "frontmatter___image___internal___mediaType",
+  FrontmatterImageInternalOwner = "frontmatter___image___internal___owner",
+  FrontmatterImageInternalType = "frontmatter___image___internal___type",
+  FrontmatterImageSourceInstanceName = "frontmatter___image___sourceInstanceName",
+  FrontmatterImageAbsolutePath = "frontmatter___image___absolutePath",
+  FrontmatterImageRelativePath = "frontmatter___image___relativePath",
+  FrontmatterImageExtension = "frontmatter___image___extension",
+  FrontmatterImageSize = "frontmatter___image___size",
+  FrontmatterImagePrettySize = "frontmatter___image___prettySize",
+  FrontmatterImageModifiedTime = "frontmatter___image___modifiedTime",
+  FrontmatterImageAccessTime = "frontmatter___image___accessTime",
+  FrontmatterImageChangeTime = "frontmatter___image___changeTime",
+  FrontmatterImageBirthTime = "frontmatter___image___birthTime",
+  FrontmatterImageRoot = "frontmatter___image___root",
+  FrontmatterImageDir = "frontmatter___image___dir",
+  FrontmatterImageBase = "frontmatter___image___base",
+  FrontmatterImageExt = "frontmatter___image___ext",
+  FrontmatterImageName = "frontmatter___image___name",
+  FrontmatterImageRelativeDirectory = "frontmatter___image___relativeDirectory",
+  FrontmatterImageDev = "frontmatter___image___dev",
+  FrontmatterImageMode = "frontmatter___image___mode",
+  FrontmatterImageNlink = "frontmatter___image___nlink",
+  FrontmatterImageUid = "frontmatter___image___uid",
+  FrontmatterImageGid = "frontmatter___image___gid",
+  FrontmatterImageRdev = "frontmatter___image___rdev",
+  FrontmatterImageBlksize = "frontmatter___image___blksize",
+  FrontmatterImageIno = "frontmatter___image___ino",
+  FrontmatterImageBlocks = "frontmatter___image___blocks",
+  FrontmatterImageAtimeMs = "frontmatter___image___atimeMs",
+  FrontmatterImageMtimeMs = "frontmatter___image___mtimeMs",
+  FrontmatterImageCtimeMs = "frontmatter___image___ctimeMs",
+  FrontmatterImageBirthtimeMs = "frontmatter___image___birthtimeMs",
+  FrontmatterImageAtime = "frontmatter___image___atime",
+  FrontmatterImageMtime = "frontmatter___image___mtime",
+  FrontmatterImageCtime = "frontmatter___image___ctime",
+  FrontmatterImageBirthtime = "frontmatter___image___birthtime",
+  FrontmatterImagePublicUrl = "frontmatter___image___publicURL",
   Excerpt = "excerpt",
   RawMarkdownBody = "rawMarkdownBody",
   FileAbsolutePath = "fileAbsolutePath",
   FieldsSlug = "fields___slug",
+  FieldsHeader = "fields___header",
   Html = "html",
   HtmlAst = "htmlAst",
   ExcerptAst = "excerptAst",
@@ -1356,11 +1407,12 @@ export enum MarkdownRemarkFieldsEnum {
   TableOfContents = "tableOfContents",
   WordCountParagraphs = "wordCount___paragraphs",
   WordCountSentences = "wordCount___sentences",
-  WordCountWords = "wordCount___words",
+  WordCountWords = "wordCount___words"
 }
 
 export type MarkdownRemarkFieldsFilterInput = {
   slug?: Maybe<StringQueryOperatorInput>;
+  header?: Maybe<StringQueryOperatorInput>;
 };
 
 export type MarkdownRemarkFilterInput = {
@@ -1388,6 +1440,7 @@ export type MarkdownRemarkFrontmatter = {
   thought?: Maybe<Scalars["String"]>;
   subnav?: Maybe<Array<Maybe<MarkdownRemarkFrontmatterSubnav>>>;
   layout?: Maybe<Scalars["String"]>;
+  image?: Maybe<File>;
 };
 
 export type MarkdownRemarkFrontmatterFilterInput = {
@@ -1396,6 +1449,7 @@ export type MarkdownRemarkFrontmatterFilterInput = {
   thought?: Maybe<StringQueryOperatorInput>;
   subnav?: Maybe<MarkdownRemarkFrontmatterSubnavFilterListInput>;
   layout?: Maybe<StringQueryOperatorInput>;
+  image?: Maybe<FileFilterInput>;
 };
 
 export type MarkdownRemarkFrontmatterImages = {
@@ -1411,10 +1465,12 @@ export type MarkdownRemarkFrontmatterImagesFilterListInput = {
 };
 
 export type MarkdownRemarkFrontmatterSubnav = {
+  text?: Maybe<Scalars["String"]>;
   link?: Maybe<Scalars["String"]>;
 };
 
 export type MarkdownRemarkFrontmatterSubnavFilterInput = {
+  text?: Maybe<StringQueryOperatorInput>;
   link?: Maybe<StringQueryOperatorInput>;
 };
 
@@ -1424,8 +1480,8 @@ export type MarkdownRemarkFrontmatterSubnavFilterListInput = {
 
 export type MarkdownRemarkGroupConnection = {
   totalCount: Scalars["Int"];
-  edges: MarkdownRemarkEdge[];
-  nodes: MarkdownRemark[];
+  edges: Array<MarkdownRemarkEdge>;
+  nodes: Array<MarkdownRemark>;
   pageInfo: PageInfo;
   field: Scalars["String"];
   fieldValue?: Maybe<Scalars["String"]>;
@@ -1440,7 +1496,7 @@ export type MarkdownRemarkSortInput = {
 export type Node = {
   id: Scalars["ID"];
   parent?: Maybe<Node>;
-  children: Node[];
+  children: Array<Node>;
   internal: Internal;
 };
 
@@ -1477,7 +1533,7 @@ export enum PotraceTurnPolicy {
   TurnpolicyLeft = "TURNPOLICY_LEFT",
   TurnpolicyRight = "TURNPOLICY_RIGHT",
   TurnpolicyMinority = "TURNPOLICY_MINORITY",
-  TurnpolicyMajority = "TURNPOLICY_MAJORITY",
+  TurnpolicyMajority = "TURNPOLICY_MAJORITY"
 }
 
 export type Query = {
@@ -1709,7 +1765,7 @@ export type QueryAllMarkdownRemarkArgs = {
 export type Site = Node & {
   id: Scalars["ID"];
   parent?: Maybe<Node>;
-  children: Node[];
+  children: Array<Node>;
   internal: Internal;
   siteMetadata?: Maybe<SiteSiteMetadata>;
   port?: Maybe<Scalars["Int"]>;
@@ -1729,11 +1785,11 @@ export type SiteBuildTimeArgs = {
 
 export type SiteConnection = {
   totalCount: Scalars["Int"];
-  edges: SiteEdge[];
-  nodes: Site[];
+  edges: Array<SiteEdge>;
+  nodes: Array<Site>;
   pageInfo: PageInfo;
   distinct: Array<Scalars["String"]>;
-  group: SiteGroupConnection[];
+  group: Array<SiteGroupConnection>;
 };
 
 export type SiteConnectionDistinctArgs = {
@@ -1841,13 +1897,12 @@ export enum SiteFieldsEnum {
   InternalType = "internal___type",
   SiteMetadataTitle = "siteMetadata___title",
   SiteMetadataGoogleVerification = "siteMetadata___googleVerification",
-  SiteMetadataDisqus = "siteMetadata___disqus",
   Port = "port",
   Host = "host",
   MappingMarkdownRemarkFrontmatterAuthor = "mapping___MarkdownRemark_frontmatter_author",
   PathPrefix = "pathPrefix",
   Polyfill = "polyfill",
-  BuildTime = "buildTime",
+  BuildTime = "buildTime"
 }
 
 export type SiteFilterInput = {
@@ -1866,8 +1921,8 @@ export type SiteFilterInput = {
 
 export type SiteGroupConnection = {
   totalCount: Scalars["Int"];
-  edges: SiteEdge[];
-  nodes: Site[];
+  edges: Array<SiteEdge>;
+  nodes: Array<Site>;
   pageInfo: PageInfo;
   field: Scalars["String"];
   fieldValue?: Maybe<Scalars["String"]>;
@@ -1884,7 +1939,7 @@ export type SiteMappingFilterInput = {
 export type SitePage = Node & {
   id: Scalars["ID"];
   parent?: Maybe<Node>;
-  children: Node[];
+  children: Array<Node>;
   internal: Internal;
   path?: Maybe<Scalars["String"]>;
   jsonName?: Maybe<Scalars["String"]>;
@@ -1900,11 +1955,11 @@ export type SitePage = Node & {
 
 export type SitePageConnection = {
   totalCount: Scalars["Int"];
-  edges: SitePageEdge[];
-  nodes: SitePage[];
+  edges: Array<SitePageEdge>;
+  nodes: Array<SitePage>;
   pageInfo: PageInfo;
   distinct: Array<Scalars["String"]>;
-  group: SitePageGroupConnection[];
+  group: Array<SitePageGroupConnection>;
 };
 
 export type SitePageConnectionDistinctArgs = {
@@ -2104,7 +2159,7 @@ export enum SitePageFieldsEnum {
   PluginCreatorPackageJsonPeerDependenciesVersion = "pluginCreator___packageJson___peerDependencies___version",
   PluginCreatorPackageJsonKeywords = "pluginCreator___packageJson___keywords",
   PluginCreatorId = "pluginCreatorId",
-  ComponentPath = "componentPath",
+  ComponentPath = "componentPath"
 }
 
 export type SitePageFilterInput = {
@@ -2126,8 +2181,8 @@ export type SitePageFilterInput = {
 
 export type SitePageGroupConnection = {
   totalCount: Scalars["Int"];
-  edges: SitePageEdge[];
-  nodes: SitePage[];
+  edges: Array<SitePageEdge>;
+  nodes: Array<SitePage>;
   pageInfo: PageInfo;
   field: Scalars["String"];
   fieldValue?: Maybe<Scalars["String"]>;
@@ -2141,7 +2196,7 @@ export type SitePageSortInput = {
 export type SitePlugin = Node & {
   id: Scalars["ID"];
   parent?: Maybe<Node>;
-  children: Node[];
+  children: Array<Node>;
   internal: Internal;
   resolve?: Maybe<Scalars["String"]>;
   name?: Maybe<Scalars["String"]>;
@@ -2156,11 +2211,11 @@ export type SitePlugin = Node & {
 
 export type SitePluginConnection = {
   totalCount: Scalars["Int"];
-  edges: SitePluginEdge[];
-  nodes: SitePlugin[];
+  edges: Array<SitePluginEdge>;
+  nodes: Array<SitePlugin>;
   pageInfo: PageInfo;
   distinct: Array<Scalars["String"]>;
-  group: SitePluginGroupConnection[];
+  group: Array<SitePluginGroupConnection>;
 };
 
 export type SitePluginConnectionDistinctArgs = {
@@ -2307,7 +2362,7 @@ export enum SitePluginFieldsEnum {
   PackageJsonPeerDependencies = "packageJson___peerDependencies",
   PackageJsonPeerDependenciesName = "packageJson___peerDependencies___name",
   PackageJsonPeerDependenciesVersion = "packageJson___peerDependencies___version",
-  PackageJsonKeywords = "packageJson___keywords",
+  PackageJsonKeywords = "packageJson___keywords"
 }
 
 export type SitePluginFilterInput = {
@@ -2328,8 +2383,8 @@ export type SitePluginFilterInput = {
 
 export type SitePluginGroupConnection = {
   totalCount: Scalars["Int"];
-  edges: SitePluginEdge[];
-  nodes: SitePlugin[];
+  edges: Array<SitePluginEdge>;
+  nodes: Array<SitePlugin>;
   pageInfo: PageInfo;
   field: Scalars["String"];
   fieldValue?: Maybe<Scalars["String"]>;
@@ -2475,13 +2530,11 @@ export type SitePluginSortInput = {
 export type SiteSiteMetadata = {
   title?: Maybe<Scalars["String"]>;
   googleVerification?: Maybe<Scalars["String"]>;
-  disqus?: Maybe<Scalars["String"]>;
 };
 
 export type SiteSiteMetadataFilterInput = {
   title?: Maybe<StringQueryOperatorInput>;
   googleVerification?: Maybe<StringQueryOperatorInput>;
-  disqus?: Maybe<StringQueryOperatorInput>;
 };
 
 export type SiteSortInput = {
@@ -2491,7 +2544,7 @@ export type SiteSortInput = {
 
 export enum SortOrderEnum {
   Asc = "ASC",
-  Desc = "DESC",
+  Desc = "DESC"
 }
 
 export type StringQueryOperatorInput = {
@@ -2524,11 +2577,27 @@ export type TemplateArticlePostQuery = { __typename?: "Query" } & {
   >;
   post: Maybe<
     { __typename?: "MarkdownRemark" } & Pick<MarkdownRemark, "html"> & {
+        fields: Maybe<
+          { __typename?: "MarkdownRemarkFields" } & Pick<
+            MarkdownRemarkFields,
+            "header"
+          >
+        >;
         frontmatter: Maybe<
           { __typename?: "MarkdownRemarkFrontmatter" } & Pick<
             MarkdownRemarkFrontmatter,
             "title" | "thought"
           > & {
+              subnav: Maybe<
+                Array<
+                  Maybe<
+                    { __typename?: "MarkdownRemarkFrontmatterSubnav" } & Pick<
+                      MarkdownRemarkFrontmatterSubnav,
+                      "link" | "text"
+                    >
+                  >
+                >
+              >;
               images: Maybe<
                 Array<
                   Maybe<
@@ -2550,6 +2619,51 @@ export type TemplateArticlePostQuery = { __typename?: "Query" } & {
                     }
                   >
                 >
+              >;
+            }
+        >;
+      }
+  >;
+};
+
+export type TemplateArticleImageQueryVariables = {
+  slug: Scalars["String"];
+};
+
+export type TemplateArticleImageQuery = { __typename?: "Query" } & {
+  aktuelles: Maybe<
+    { __typename?: "MarkdownRemark" } & Pick<MarkdownRemark, "html">
+  >;
+  post: Maybe<
+    { __typename?: "MarkdownRemark" } & Pick<MarkdownRemark, "html"> & {
+        frontmatter: Maybe<
+          { __typename?: "MarkdownRemarkFrontmatter" } & Pick<
+            MarkdownRemarkFrontmatter,
+            "title"
+          > & {
+              subnav: Maybe<
+                Array<
+                  Maybe<
+                    { __typename?: "MarkdownRemarkFrontmatterSubnav" } & Pick<
+                      MarkdownRemarkFrontmatterSubnav,
+                      "link" | "text"
+                    >
+                  >
+                >
+              >;
+              image: Maybe<
+                { __typename?: "File" } & {
+                  childImageSharp: Maybe<
+                    { __typename?: "ImageSharp" } & {
+                      resize: Maybe<
+                        { __typename?: "ImageSharpResize" } & Pick<
+                          ImageSharpResize,
+                          "src"
+                        >
+                      >;
+                    }
+                  >;
+                }
               >;
             }
         >;

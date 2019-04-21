@@ -10,9 +10,9 @@ images:
   - link: /veranstaltungen/2014/
     file: g-david.jpg
 subnav:
-  - text: 2013
+  - text: '2013'
     link: /veranstaltungen/2013/
-  - text: 2014
+  - text: '2014'
     link: /veranstaltungen/2014/
 ---
 

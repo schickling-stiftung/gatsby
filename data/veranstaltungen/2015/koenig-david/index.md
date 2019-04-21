@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 # König David mit der Harfe

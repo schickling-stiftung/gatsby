@@ -1,6 +1,7 @@
 ---
 title: Ottobeuren
 layout: image
+image: image.jpg
 ---
 
 # Krypta der Basilika: Bruder-Klaus-Glasfenster

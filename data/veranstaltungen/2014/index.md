@@ -13,9 +13,9 @@ images:
     file: g-hopfenzitz.jpg
 thought: /bildgedanken/damemandoline2015/
 subnav:
-  - text: 2014
+  - text: '2014'
     link: /veranstaltungen/2014/
-  - text: 2015
+  - text: '2015'
     link: /veranstaltungen/2015/
 ---
 

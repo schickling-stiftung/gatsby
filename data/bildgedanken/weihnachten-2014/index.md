@@ -1,6 +1,7 @@
 ---
 title: Weihnachten 2014
 layout: image
+image: image.jpg
 ---
 
 Sitz der Weisheit - Das Göttliche Kind

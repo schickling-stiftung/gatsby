@@ -1,5 +1,6 @@
 ---
 layout: image
+image: image.jpg
 ---
 
 # „Der kleine Insel-Löwe und eine wirkliche - - - Überrraschung!“
