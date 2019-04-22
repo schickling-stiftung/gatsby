@@ -10,7 +10,5 @@ Herzlich willkommen im Neuen Jahr!
 
 [**Flyer**](/flyer/)
 
-Leben im Bild:
-[**"Verborgene Sonne"**](/bildgedanken/032919pythiafranziskus/) Bildgespräche mit Prof. Dr. Lydia Maidl  
-am Freitag, 29. März um 17 Uhr  
-auf Anmeldung!
+Jubiläumssonntag, 28.4.2019:
+[**"Matinee"**](/veranstaltungen/2019/jubilaeum/)
