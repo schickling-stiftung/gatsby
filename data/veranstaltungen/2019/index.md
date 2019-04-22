@@ -23,17 +23,19 @@ Bilder, Texte und Musik zur Passionswoche
 
 [**20 Jahre Erich-Schickling-Stiftung**](/veranstaltungen/2019/jubilaeum/)
 
-[**Samstag, 27. April um 17 Uhr**] Im Bild und Gleichnis  
-Dr. theol. Martin Brüske, Fribourg: 
-Interpretationen und Betrachtungen zu Erich Schicklings Glasfensterzyklen  
-Walter Dolak, Klavier   
+**Samstag, 27. April um 17 Uhr** Im Bild und Gleichnis  
+Wegen Erkrankung des Referenten muss dieser Termin leider abgesagt werden. 
 
-[**Sonntag, 28. April**] Sonne für die Seele
+[**Sonntag, 28. April**](/veranstaltungen/2019/jubilaeum/) Sonne für die Seele  
 Ein Jubiläumstag mit Künstlern und Referenten der Erich-Schickling-Stiftung:
 Bildgespräche, Dichterworte und Musikbeiträge
-11 Uhr Franz Schubert "Lebensstürme"
-mit Arabella Pare und Ulrike Meyer, Klavier
-anschl. "Augenblicke im Bild und Wort" mit Prof. Dr. Lydia Maidl und Autorin Antonie Schneider
+
+[**11 Uhr Matinee**](/veranstaltungen/2019/matinee/)
+mit Arabella Pare und Ulrike Meyer, Klavier  
+mit Prof. Dr. Lydia Maidl und Autorin Antonie Schneider
+
+[**15 Uhr Entlang der Architektur**](/veranstaltungen/2019/rundgang/)  
+Ein Rundgang mit Wort und Melodie
 
 [**17 Uhr „STERNTROPFEN“**](/veranstaltungen/2019/berger/)  
 Werke von Johann Sebastian BACH bis Sofia GUBAIDULINA  
