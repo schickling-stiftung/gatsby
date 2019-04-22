@@ -7,6 +7,7 @@ import { withLayout, LayoutProps } from '../components/Layout'
 import { graphql } from 'gatsby'
 import Nav from '../components/Nav'
 import Helmet from 'react-helmet'
+import header from '../../data/header.jpg'
 
 interface ArticlePostProps extends LayoutProps {
   data: TemplateArticlePostQuery
@@ -21,6 +22,7 @@ const ArticlePostPage = (props: ArticlePostProps) => {
       <div id="main">
         <div id="header">
           <div id="headerImage">
+            <img src={header} />
             {/* <img src={props.data.post.fields.header} alt="" /> */}
           </div>
           <div id="logoWrapper">
