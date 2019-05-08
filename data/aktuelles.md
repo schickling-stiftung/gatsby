@@ -11,7 +11,6 @@ Herzlich willkommen im Neuen Jahr!
 
 [**Flyer**](/flyer/)
 
-[**Jubiläumsprogramm**](/veranstaltungen/2019/jubilaeum/) Sonntag 28.April  
-[**11 Uhr Matinee**](/veranstaltungen/2019/matinee/)  
-[**15 Uhr Entlang der Architektur**](/veranstaltungen/2019/rundgang/)  
-[**17 Uhr "Sterntropfen" - Duo Berger**](/veranstaltungen/2019/berger/)
+[**Museumstag**](/veranstaltungen/2019/museumstag/) am Sonntag 19. Mai
+
+[**Samstag, 25. Mai um 18 Uhr Konzert**](/veranstaltungen/2019/duette/) Duette der Romantik 
