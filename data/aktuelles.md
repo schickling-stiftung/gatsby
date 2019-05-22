@@ -11,6 +11,5 @@ Herzlich willkommen im Neuen Jahr!
 
 [**Flyer**](/flyer/)
 
-[**Museumstag**](/veranstaltungen/2019/museumstag/) am Sonntag 19. Mai
 
-[**Samstag, 25. Mai um 18 Uhr Konzert**](/veranstaltungen/2019/duette/) Duette der Romantik 
+[**Samstag, 25. Mai um 18 Uhr Konzert**](/veranstaltungen/2019/duette/) Duette der Romantik mit Lisa Wittig, Sopran, Konstantin Ingenpass, Bariton und Hartmut Höll Klavier

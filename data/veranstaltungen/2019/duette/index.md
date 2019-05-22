@@ -11,7 +11,7 @@ Duette der Romantik von Felix Mendelssohn-Bartholdy, Peter Cornelius und Robert 
   
 mit Lisa Wittig (Sopran), Konstantin Ingenpaß (Bariton), Hartmut Höll (Klavier)  
 
-Prof. Hartmut Höll, weltweit gefeierter Liedpianist und langjähriger Lied-Duopartner von Dietrich Fischer-Dieskau und Mitsuko Shirai, führt zwei aufstrebende junge Künstler der Hochschule für Musik Karlsruhe zu diesem besonderen Programm zusammen.
+Prof. Hartmut Höll, weltweit gefeierter Liedpianist und langjähriger Lied-Duopartner von Dietrich Fischer-Dieskau, Mitsuko Shirai und Renée Fleming, führt zwei aufstrebende junge Künstler der Hochschule für Musik Karlsruhe zu diesem besonderen Programm zusammen.
 
 Die 23-jährige Sopranistin Lisa Wittig aus Trier begann ihre musikalische Ausbildung im Alter von vier Jahren mit Klavierunterricht, mit zwölf erhielt sie ihren ersten Gesangsunterricht. Seit Oktober 2014 studiert sie an der Hochschule für Musik in Karlsruhe bei Prof. Christiane Libor. Beim Bundeswettbewerb Jugend Musiziert erzielte sie 2011 im Fach Sologesang einen 1. Preis. Daraufhin wurde ein Fernsehportrait über Lisa Wittig für die Abendschau des SWR Rheinland-Pfalz gedreht. Sie ist Stipendiatin der Detmolder Sommerakademie, sowie des Wagner Verbandes Wiesbaden. Wichtige musikalische Impulse im Liedbereich gewann sie unter anderem bei Sybilla Rubens, Christoph Prégardien und Hartmut Höll, was mit letzterem bereits zu gemeinsamen Liederabenden führte. Bei den Ettlinger Schlossfestspielen 2019 wird sie ihr Debut als „Pamina“ in Mozarts „Die Zauberflöte“ geben. 
 
