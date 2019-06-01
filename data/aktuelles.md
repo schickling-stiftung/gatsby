@@ -12,4 +12,10 @@ Herzlich willkommen im Neuen Jahr!
 [**Flyer**](/flyer/)
 
 
-[**Samstag, 25. Mai um 18 Uhr Konzert**](/veranstaltungen/2019/duette/) Duette der Romantik mit Lisa Wittig, Sopran, Konstantin Ingenpass, Bariton und Hartmut Höll Klavier
+[**Freitag, den 7. Juni um 18 Uhr**](/veranstaltungen/2019/projectvocal/) Chorkonzert und Lesung
+
+[**Pfingstmontag, 10. Juni um 17 Uhr**](/veranstaltungen/2019/triokonflikt/)
+Konzert mit dem TRIO KONFLIKT
+
+[**Sonntag, 16. Juni um 16.30 Uhr**](/veranstaltungen/2019/klarizither/)
+KlariZither- Konzert nach der Führung
