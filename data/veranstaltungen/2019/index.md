@@ -71,13 +71,11 @@ Augenblicke in Schwingung
 Musikalische Begegnungen von Klarinette / Günter Schwanghart und Zither /Josef Bichlmair  
 Unterwegs auf einer Wanderung zu unterschiedlichen musikalischen Traditionen (Jazz, Klezmer, Folk, Klassik...) kombiniert sich freies, dem Augenblick entspringendes Musizieren mit konkreten, auch eigenen Kompositionen. 
 
-[**Samstag, 6. Juli um 18 Uhr**]  
-	Visions de l’AMEN 
-Das Klavierduo Yukiko Naito und Markus Stange führt den 7-teiligen Zyklus über das AMEN auf, komponiert 1943, für zwei Klaviere von Olivier Messiaen.
+[**Samstag, 6. Juli um 18 Uhr**](/veranstaltungen/2019/messiaen/) Visions de l’Amen   
+Das Klavierduo Yukiko Naito und Markus Stange führt den 7-teiligen Zyklus über das Amen auf, komponiert 1943, für zwei Klaviere von Olivier Messiaen.
 
-Das im Jahr 2005 gegründete Klavierduo Yukiko Naito & Markus Stange gab sein Debut im selben Jahr mit der Aufführung der beiden Konzerte für zwei Klaviere und Orchester von Mozart und Poulenc als Solisten der Württembergischen Philharmonie Reutlingen. 2006 erschien eine CD mit Werken von Mozart, Ravel und Debussy. Das Duo eröffnete im August  2008 mit den „Visions de l´Amen“ die Internationale Messiaen-Woche in Neustadt an der Weinstrasse zum 100. Geburtstag des Komponisten und spielte dieses Werk im Januar 2010 in einem spektakulären Konzert auf dem verschneiten Gelände des ehemaligen Kriegsgefangenenlagers StaLag VIII in Zgorzelec in Polen, wo Messiaen das berühmte „Quatuor pour la fin du temps“ geschrieben und uraufgeführt hatte.
 
-[**Freitag, 12. Juli um 19.30 Uhr**] Klangreise mit Markus Noichl  
+[**Freitag, 12. Juli um 19.30 Uhr**](/veranstaltungen/2019/noichl/) Klangreise mit Markus Noichl    
 Mit verschiedenen Instrumenten wie Harfe, Gongs, Trommeln, aber auch exotischen Überraschungen wie Klangsteinen oder dem Waterphon versucht Markus Noichl, den Geist des Ortes, den "genius loci" mit Tönen einzufangen. Und so werden die verschiedenen Plätze und Räume, von Erich Schickling mit Bildern oder Plastiken gestaltet, klingend verbunden. Eine Wanderung auf der Suche nach den Quellen dieses Gesamtkunstwerkes und schöpfend aus ganz persönlichen Grenz-Erfahrungen des Musikers Markus Noichl.
 
 [**Freitag – Sonntag, 6. – 8. September 2019**]  
