@@ -46,6 +46,7 @@ const ArticlePostPage = (props: ArticlePostProps) => {
                 <a
                   href={file.childImageSharp.original.src}
                   key={file.childImageSharp.original.src}
+                  target="_blank"
                 >
                   <img src={file.childImageSharp.resize.src} />
                 </a>

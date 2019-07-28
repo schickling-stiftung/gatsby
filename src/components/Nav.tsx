@@ -31,10 +31,17 @@ export default ({ pathname }: { pathname: string }) => {
 const renderNavItem = (navItem: NavItem, pathname: string) => (
   <li key={navItem.title}>
     <Link
-      className={pathname === navItem.link ? 'active' : ''}
+      className={isActive(navItem.link, pathname) ? 'active' : ''}
       to={navItem.link}
     >
       {navItem.title}
     </Link>
   </li>
 )
+
+const isActive = (link: string, pathname: string): boolean => {
+  if (link === '/') {
+    return link === pathname
+  }
+  return pathname.startsWith(link)
+}

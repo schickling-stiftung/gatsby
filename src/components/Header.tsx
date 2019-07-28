@@ -1,13 +1,16 @@
 import * as React from 'react'
 import Nav from './Nav'
-import header from '../../data/header.jpg'
+import imgStartseite from '../images/header/startseite.jpg'
+import imgErichSchickling from '../images/header/erich-schickling.jpg'
+import imgFoerderkreis from '../images/header/foerderkreis.jpg'
+import imgKontakt from '../images/header/kontakt.jpg'
+import imgVeranstaltungen from '../images/header/veranstaltungen.jpg'
 
 export default ({ pathname }: { pathname: string }) => (
   <>
     <div id="header">
       <div id="headerImage">
-        <img src={header} />
-        {/* <img src={props.data.post.fields.header} alt="" /> */}
+        <img src={getImage(pathname)} />
       </div>
       <div id="logoWrapper">
         <div id="logo" />
@@ -18,3 +21,21 @@ export default ({ pathname }: { pathname: string }) => (
     <div id="recentHead">Aktuelles</div>
   </>
 )
+
+const getImage = (pathname: string) => {
+  if (pathname === '/') {
+    return imgStartseite
+  }
+  if (pathname.startsWith('/erich-schickling')) {
+    return imgErichSchickling
+  }
+  if (pathname.startsWith('/foerderkreis')) {
+    return imgFoerderkreis
+  }
+  if (pathname.startsWith('/kontakt')) {
+    return imgKontakt
+  }
+  if (pathname.startsWith('/veranstaltungen')) {
+    return imgVeranstaltungen
+  }
+}
