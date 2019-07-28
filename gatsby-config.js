@@ -1,4 +1,7 @@
 module.exports = {
+  siteMetadata: {
+    siteUrl: `https://www.schickling-stiftung.de`,
+  },
   plugins: [
     // Expose `/data` to graphQL layer
     {
@@ -44,6 +47,8 @@ module.exports = {
 
     // Add typescript stack into webpack
     `gatsby-plugin-typescript`,
+
+    `gatsby-plugin-sitemap`,
 
     // This plugin generates a service worker and AppShell
     // html file so the site works offline and is otherwise

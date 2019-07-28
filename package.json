@@ -30,6 +30,7 @@
     "gatsby-plugin-google-analytics": "*",
     "gatsby-plugin-offline": "*",
     "gatsby-plugin-sharp": "*",
+    "gatsby-plugin-sitemap": "^2.2.3",
     "gatsby-plugin-typescript": "^2.0.0-rc.4",
     "gatsby-remark-autolink-headers": "*",
     "gatsby-remark-copy-linked-files": "*",
