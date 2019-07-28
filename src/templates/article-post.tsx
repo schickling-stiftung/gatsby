@@ -2,7 +2,6 @@ import * as React from 'react'
 import { Link } from 'gatsby'
 import { Container, Segment } from 'semantic-ui-react'
 import { TemplateArticlePostQuery } from '../graphql-types'
-import { DiscussionEmbed } from 'disqus-react'
 import { withLayout, LayoutProps } from '../components/Layout'
 import { graphql } from 'gatsby'
 import Nav from '../components/Nav'
@@ -73,7 +72,7 @@ const ArticlePostPage = (props: ArticlePostProps) => {
                   href={file.childImageSharp.original.src}
                   key={file.childImageSharp.original.src}
                 >
-                  <img src={file.childImageSharp.original.src} />
+                  <img src={file.childImageSharp.resize.src} />
                 </a>
               ))}
           </div>
@@ -110,6 +109,9 @@ export const pageQuery = graphql`
         images {
           file {
             childImageSharp {
+              resize(height: 120) {
+                src
+              }
               original {
                 src
               }

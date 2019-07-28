@@ -3,11 +3,11 @@ title: Kataloge
 images:
  - link: /foerderkreis/kataloge/hauptkatalog/
    file: g-hauptkatalog.jpg
- - link: 2
+ - link: /foerderkreis/kataloge/hauptkatalog/
    file: g-dokumentation1.jpg
- - link: 3
+ - link: /foerderkreis/kataloge/hauptkatalog/
    file: g-pottenstetter-kreuzweg.jpg
- - link: 4
+ - link: /foerderkreis/kataloge/hauptkatalog/
    file: g-dokumentation3.jpg
 thought: /werke/david/
 subnav:
