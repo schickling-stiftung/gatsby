@@ -1,18 +1,40 @@
-import * as React from "react";
+import * as React from 'react'
+import { Link } from 'gatsby'
 
-export default () => {
+type NavItem = {
+  link: string
+  title: string
+}
+
+const navItems: NavItem[] = [
+  { link: '/', title: 'Startseite' },
+  { link: '/erich-schickling/', title: 'Erich Schickling' },
+  { link: '/werke/', title: 'Werke' },
+  { link: '/foerderkreis/', title: 'Förderkreis' },
+  { link: '/veranstaltungen/', title: 'Veranstaltungen' },
+  { link: '/kontakt/', title: 'Kontakt' },
+]
+
+export default ({ pathname }: { pathname: string }) => {
   return (
     <div id="nav">
-        <ul id="first">
-            <li><a className="<% if item.identifier == '/' %>active<% end %>" href="/">Startseite</a></li>
-        </ul>
-        <ul id="second">
-            <li><a className="<% if active_path?(item, '/erich-schickling/') %>active<% end %>" href="/erich-schickling">Erich Schickling</a></li>
-            <li><a className="<% if active_path?(item, '/werke/') %>active<% end %>" href="/werke">Werke</a></li>
-            <li><a className="<% if active_path?(item, '/foerderkreis/') %>active<% end %>" href="/foerderkreis">F&#246;rderkreis</a></li>
-            <li><a className="<% if active_path?(item, '/veranstaltungen/') %>active<% end %>" href="/veranstaltungen">Veranstaltungen</a></li>
-            <li><a className="<% if active_path?(item, '/kontakt/') %>active<% end %>" href="/kontakt">Kontakt</a></li>
-        </ul>
+      <ul id="first">
+        {navItems.slice(0, 1).map(navItem => renderNavItem(navItem, pathname))}
+      </ul>
+      <ul id="second">
+        {navItems.slice(1).map(navItem => renderNavItem(navItem, pathname))}
+      </ul>
     </div>
-  );
-};
+  )
+}
+
+const renderNavItem = (navItem: NavItem, pathname: string) => (
+  <li key={navItem.title}>
+    <Link
+      className={pathname === navItem.link ? 'active' : ''}
+      to={navItem.link}
+    >
+      {navItem.title}
+    </Link>
+  </li>
+)

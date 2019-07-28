@@ -1,51 +1,31 @@
 import * as React from 'react'
-import { Link } from 'gatsby'
-import { Container, Segment } from 'semantic-ui-react'
 import { TemplateArticleImageQuery } from '../graphql-types'
-import { DiscussionEmbed } from 'disqus-react'
-import { withLayout, LayoutProps } from '../components/Layout'
+// import { withLayout, LayoutProps } from '../components/Layout'
 import { graphql } from 'gatsby'
-import Nav from '../components/Nav'
 import { Helmet } from 'react-helmet'
+import Header from '../components/Header'
+import Subnav from '../components/Subnav'
+import '../css/styles.css'
 
-interface ArticleImageProps extends LayoutProps {
+interface ArticleImageProps {
   data: TemplateArticleImageQuery
+  location: {
+    pathname: string
+  }
 }
 
 const ArticleImagePage = (props: ArticleImageProps) => {
   const { frontmatter, html } = props.data.post
+  const { pathname } = props.location
 
   return (
-    <Container>
+    <>
       <Helmet defaultTitle={`${frontmatter.title} - Schickling Stiftung`} />
       <div id="main">
-        <div id="header">
-          <div id="headerImage" />
-          <div id="logoWrapper">
-            <div id="logo" />
-            <div id="logoTitle">Begegnung von Kunst und Religion</div>
-          </div>
-        </div>
-        <Nav />
-        <div id="recentHead">Aktuelles</div>
+        <Header pathname={props.location.pathname} />
+
         <div id="contentWrapper" style={{ padding: 0 }}>
-          <div id="subnav">
-            <ul>
-              {frontmatter.subnav &&
-                frontmatter.subnav.map(el => (
-                  <li key={el.link}>
-                    <a
-                      className={
-                        props.location.pathname === el.link ? 'active' : ''
-                      }
-                      href={el.link}
-                    >
-                      {el.text}
-                    </a>
-                  </li>
-                ))}
-            </ul>
-          </div>
+          <Subnav pathname={pathname} subnav={frontmatter.subnav} />
           <div id="imageContent">
             <img src={frontmatter.image.childImageSharp.resize.src} />
           </div>
@@ -55,24 +35,21 @@ const ArticleImagePage = (props: ArticleImageProps) => {
             dangerouslySetInnerHTML={{ __html: props.data.aktuelles.html }}
           />
         </div>
+
         <div id="imageFooter">
           <div id="imageTitle">{frontmatter.title}</div>
-          <div id="imageText" className="text">
-            <Segment
-              vertical
-              style={{ border: 'none' }}
-              dangerouslySetInnerHTML={{
-                __html: html,
-              }}
-            />
-          </div>
+          <div
+            id="imageText"
+            className="text"
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
         </div>
       </div>
-    </Container>
+    </>
   )
 }
 
-export default withLayout(ArticleImagePage)
+export default ArticleImagePage
 
 export const pageQuery = graphql`
   query TemplateArticleImage($slug: String!) {
