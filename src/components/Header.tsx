@@ -6,11 +6,17 @@ import imgFoerderkreis from '../images/header/foerderkreis.jpg'
 import imgKontakt from '../images/header/kontakt.jpg'
 import imgVeranstaltungen from '../images/header/veranstaltungen.jpg'
 
-export default ({ pathname }: { pathname: string }) => (
+export default ({
+  pathname,
+  showHeader,
+}: {
+  pathname: string
+  showHeader: boolean
+}) => (
   <>
     <div id="header">
       <div id="headerImage">
-        <img src={getImage(pathname)} />
+        {showHeader && <img src={getImage(pathname)} />}
       </div>
       <div id="logoWrapper">
         <div id="logo" />

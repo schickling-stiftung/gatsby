@@ -1,14 +1,18 @@
 ---
-title: kontakt
+title: Kontakt
 ---
 
 [3 Wegbeschreibungen zur Erich-Schickling-Stiftung nach Eggisried](/kontakt/wegbeschreibung/)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6869.366318702796!2d10.295902145569535!3d47.95990771604182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbbbaaf6e5269db04!2sErich+Schickling+Stiftung!5e1!3m2!1sen!2sde!4v1564317568225!5m2!1sen!2sde" width="580" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Erich-Schickling-Stiftung  
 Eggisried 29 ½  
 87724 Ottobeuren  
 Tel.: 08332-936424 oder 0171-9715083 (Ulrike Meyer)  
 Mail: info@schickling-stiftung.de
+
+---
 
 Für hilfreiche Kritik und Anregung zu dieser Website sind wir dankbar!
 

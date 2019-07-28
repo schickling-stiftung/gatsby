@@ -23,7 +23,7 @@ const ArticlePostPage = (props: ArticlePostProps) => {
     <>
       <Helmet defaultTitle={`${frontmatter.title} - Schickling Stiftung`} />
       <div id="main">
-        <Header pathname={props.location.pathname} />
+        <Header pathname={props.location.pathname} showHeader={true} />
 
         <div id="contentWrapper">
           <Subnav pathname={pathname} subnav={frontmatter.subnav} />
