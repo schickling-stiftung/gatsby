@@ -1,13 +1,17 @@
 {
-    "extends": ["tslint:recommended", "tslint-react", "tslint-config-prettier"],
-    "rules": {
-      "object-literal-sort-keys": false,
-      "ordered-imports": false,
-      "no-console": [true, "warning"],
-      "jsx-no-lambda": false,
-      "interface-name": [true, "never-prefix"],
-      "max-classes-per-file": [false, 1],
-      "no-string-literal": false,
-      "member-ordering": false
-    }
+  "extends": ["tslint:recommended", "tslint-react", "tslint-config-prettier"],
+  "rules": {
+    "object-literal-sort-keys": false,
+    "ordered-imports": false,
+    "no-console": [true, "warning"],
+    "jsx-no-lambda": false,
+    "interface-name": [true, "never-prefix"],
+    "interface-over-type-literal": false,
+    "max-classes-per-file": [false, 1],
+    "no-string-literal": false,
+    "member-ordering": false
+  },
+  "linterOptions": {
+    "exclude": ["./src/graphql-types.ts"]
   }
+}

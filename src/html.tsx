@@ -15,14 +15,6 @@ interface HtmlProps {
 export default (props: HtmlProps) => {
   const head = Helmet.rewind()
 
-  const verification =
-    config.siteMetadata && config.siteMetadata.googleVerification ? (
-      <meta
-        name="google-site-verification"
-        content={config.siteMetadata.googleVerification}
-      />
-    ) : null
-
   return (
     <html lang="en">
       <head>
@@ -37,7 +29,6 @@ export default (props: HtmlProps) => {
         {head.title.toComponent()}
         {head.meta.toComponent()}
         {head.link.toComponent()}
-        {verification}
       </head>
       <body>
         <div id="___gatsby" dangerouslySetInnerHTML={{ __html: props.body }} />
