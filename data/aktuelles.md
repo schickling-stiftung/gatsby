@@ -10,10 +10,8 @@ Für Gruppen nach Vereinbarung
 
 [**Flyer**](/flyer/)
   
-[**Samstag, 6. Juli um 18 Uhr**](/veranstaltungen/2019/messiaen/)
-Visions de l’Amen von Olivier Messiaen
-  
-[**Freitag, 12. Juli um 19.30 Uhr**](/veranstaltungen/2019/noichl/) Klangreise mit Markus Noichl
+[**Sonntag, 11. August um 16.30 Uhr**](/veranstaltungen/2019/grube19/) Konzert nach der Führung mit Prof. Michael Grube, Violine
+
 
 
 
