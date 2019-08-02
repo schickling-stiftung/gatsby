@@ -9,8 +9,7 @@ images:
     file: g-eggseminar.jpg
   - link: /veranstaltungen/benedict/
     file: g-benedict.jpg
-thought: /bildgedanken/032919pythiafranziskus/
----
+thought: /bildgedanken/022219franziskus/ 
 
 [Jahresprogramm 2018](/veranstaltungen/2018/)  
 [Jahresprogramm 2019](/veranstaltungen/2019/) 

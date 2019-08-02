@@ -7,7 +7,7 @@ images:
     file: g-messiaen.jpg
   - link: /bildgedanken/022019franziskus/
     file: g-franziskus.jpg  
-thought: /bildgedanken/032919pythiafranziskus/
+thought: /bildgedanken/022219franziskus/
 subnav:
   - text: '2018'
     link: /veranstaltungen/2018/
