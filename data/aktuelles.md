@@ -10,7 +10,7 @@ Für Gruppen nach Vereinbarung
 
 [**Flyer**](/flyer/)
   
-[**Freitag – Sonntag, 6. – 8. September 2019**](/veranstaltungen/2019/seminar19/)  
+[**Freitag – Sonntag, 6. – 8. September**](/veranstaltungen/2019/seminar19/)  
 19. Eggisrieder Seminar für Musik und Transzendenz  
 "musica variata"
 
