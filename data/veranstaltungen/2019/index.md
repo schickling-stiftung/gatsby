@@ -82,7 +82,10 @@ Mit verschiedenen Instrumenten wie Harfe, Gongs, Trommeln, aber auch exotischen 
 "Form, Phantasie und Leidenschaft"
 mit dem Violinisten Prof. Michael Grube
 
-[**Freitag – Sonntag, 6. – 8. September 2019**]  
+[**Freitag – Sonntag, 6. – 8. September 2019**](/veranstaltungen/2019/seminar19/)  
 19. Eggisrieder Seminar für Musik und Transzendenz  
 "musica variata"
 mit Till Hoffmann, Jakob Raab, Daniel Reinhard, Ruven Wegner
+
+[**Samstag, 7. September um 18 Uhr**](/veranstaltungen/2019/hoffmannraab/)
+Klavierabend Jakob Raab & Till Hoffmann

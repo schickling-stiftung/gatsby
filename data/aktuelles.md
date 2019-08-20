@@ -10,8 +10,11 @@ Für Gruppen nach Vereinbarung
 
 [**Flyer**](/flyer/)
   
-[**Sonntag, 11. August um 16.30 Uhr**](/veranstaltungen/2019/grube19/) Konzert nach der Führung mit Prof. Michael Grube, Violine
+[**Freitag – Sonntag, 6. – 8. September 2019**](/veranstaltungen/2019/seminar19/)  
+19. Eggisrieder Seminar für Musik und Transzendenz  
+"musica variata"
 
-
+[**Samstag, 7. September um 18 Uhr**](/veranstaltungen/2019/hoffmannraab/)
+Klavierabend Jakob Raab & Till Hoffmann
 
 
