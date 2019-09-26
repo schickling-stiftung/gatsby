@@ -90,6 +90,8 @@ mit Till Hoffmann, Jakob Raab, Daniel Reinhard, Ruven Wegner
 [**Samstag, 7. September um 18 Uhr**](/veranstaltungen/2019/hoffmannraab/)
 Klavierabend Jakob Raab & Till Hoffmann
 
+[**Donnerstag, 3. Oktober Tür auf für die Maus**](/veranstaltungen/2019/maustueroeffner/)
+
 [**Sonntag, 6. Oktober um 16.30 Uhr**](/veranstaltungen/2019/brydendrevlow/)
 Musik nach der Führung  
 mit dem US-amerikanischen Pianisten Brayden Drevlow
