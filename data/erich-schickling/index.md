@@ -9,7 +9,7 @@ images:
     file: g-orpheuseurydike.jpg
   - link: #
     file: g-leo.jpg
-thought: /bildgedanken/022219franziskus/
+thought: /bildgedanken/122019weihnachten/
 subnav:
   - text: Der Künstler
     link: /erich-schickling/
