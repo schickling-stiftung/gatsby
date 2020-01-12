@@ -11,6 +11,8 @@ thought: /bildgedanken/022219franziskus/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/
+  - text: Vorstand
+  	 link: /foerderkreis/vorstand/
 ---
 
 # Der Förderkreis der Erich-Schickling-Stiftung e.V.
