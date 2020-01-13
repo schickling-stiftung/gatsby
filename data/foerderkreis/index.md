@@ -1,18 +1,18 @@
 ---
 title: Förderkreis
 images:
- - link: /foerderkreis/insel-loewe/
-   file: g-inselloewe.jpg
- - link: /foerderkreis/glockenturm/
-   file: g-glockenturm.jpg
- - link: /foerderkreis/konzertraum/
-   file: g-konzertraum.jpg
+  - link: /foerderkreis/insel-loewe/
+    file: g-inselloewe.jpg
+  - link: /foerderkreis/glockenturm/
+    file: g-glockenturm.jpg
+  - link: /foerderkreis/konzertraum/
+    file: g-konzertraum.jpg
 thought: /bildgedanken/022219franziskus/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/
   - text: Vorstand
-  	link: /foerderkreis/vorstand/
+    link: /foerderkreis/vorstand/
 ---
 
 # Der Förderkreis der Erich-Schickling-Stiftung e.V.
