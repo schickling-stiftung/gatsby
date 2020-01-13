@@ -12,7 +12,7 @@ subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/
   - text: Vorstand
-  	 link: /foerderkreis/vorstand/
+  	link: /foerderkreis/vorstand/
 ---
 
 # Der Förderkreis der Erich-Schickling-Stiftung e.V.
