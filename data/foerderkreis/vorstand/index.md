@@ -1,34 +1,28 @@
 ---
-title: Kataloge
-images:
- - link: /foerderkreis/kataloge/hauptkatalog/
-   file: g-hauptkatalog.jpg
- - link: /foerderkreis/kataloge/hauptkatalog/
-   file: g-dokumentation1.jpg
- - link: /foerderkreis/kataloge/hauptkatalog/
-   file: g-pottenstetter-kreuzweg.jpg
- - link: /foerderkreis/kataloge/hauptkatalog/
-   file: g-dokumentation3.jpg
-thought: /werke/david/
-subnav:
- - text: zurück
-   link: /foerderkreis/
+layout: image
+image: image.jpg
 ---
 
-# Kataloge
+# Vorstand
 
-[**Erich Schickling, Hauptkatalog**](/foerderkreis/kataloge/hauptkatalog/)  
-Über Künstler und Werk mit ca. 50 Farbseiten, 1995
-20 € vergriffen
+Der Vorstand des Förderkreises der Erich-Schickling-Stiftung e.V. setzt sich wie folgt zusammen:
+  
+1. Vorsitzender: Michael Trieb  
+2. Vorsitzender: Prof. Dr. Hans Frei  
+Kassenführerin: Ulrike Meyer  
+Schriftführer: Peter Rietzler  
+Beisitzer: German Fries, Klaus Holetschek, Günter Schwanghart  
 
-[**Erich-Schickling-Stiftung 1**](/foerderkreis/kataloge/doku1/)  
-Dokumentation 1, Februar 2000, 50 Seiten, 8 Farbseiten, 10 €
+Wir gedenken unseres Ehrenvorsitzenden Altlandrat Dr. Hermann Haisch, der den Förderkreis mitgegründet und 20 Jahre als Vorsitzender geführt hat.
 
-**Erich-Schickling-Stiftung 2: Pottenstetter Kreuzweg**  
-Dokumentation 2, September 2001, 50 Seiten, 24 Farbseiten, 10 €
+Nachruf:
 
-**Erich-Schickling-Stiftung 3**  
-Dokumentation 3, April 2004, 50 Seiten, 15 Farbseiten, 10 €
+Dr. Hermann Haisch, Altlandrat des Landkreises Unterallgäu, hat sich am 14. November 2019 aus dieser sichtbaren Welt verabschiedet. Sein Weg mit der Krankheit durch das letzte Jahr war nicht leicht, wurde aber von ihm wachen Geistes durchschritten und durchlitten.  
+   
+Die Erich-Schickling-Stiftung hat ihm sehr zu danken! Er hat 20 Jahre als Vorsitzender seit der Gründung 1998 bis 2018 den Förderkreis der Erich-Schickling-Stiftung e.V. geführt. Er hat mit großem Engagement die Gründung (1999) und Führung der Erich-Schickling-Stiftung unterstützt, gefördert und mit dem Herzen begleitet. Seine Verbundenheit mit der Kunst Erich Schicklings, mit der Familie Schickling und mit dem Kultur- und Begegnungsort an der Günz hat er in vielen seiner kenntnisreichen und inspirierenden Grußworte und Ansprachen zum Ausdruck gebracht. Den anwesenden Mitgliedern werden seine unübertrefflichen Rückblicke bei den Jahresversammlungen, insbesondere bei seiner letzten 2018 in Erinnerung bleiben.
 
-**Erich-Schickling-Stiftung 4**
-Dokumentation 4, März 2012, 50 Seiten, 23 Farbseiten, 10 €
+Seine tiefe Verbundenheit mit der Kunst und Bildaussage von Erich Schickling lässt sich an diesem bezeugten Wort Hermann Haischs erahnen:
+„Die Thematik des ‚Ostermorgen‘ begleitete Schickling durch sein reiches, künstlerisches Leben und schenkte ihm selbst die Zuversicht, die sein ganzes Schaffen durchleuchtet. Bei aller Unbill des Lebens geht wie im Bild des „Ostermorgen“ und in seinem Auferstehungsfenster die österliche Sonne auf und gibt uns Hoffnung und Licht, Kraft und Wärme: die Sonne als Zeichen des Urlichtes in der Schöpfung.“
+   
+Das geistige Erbe von Dr. Hermann Haisch wird mit der Erich Schickling-Stiftung immer verbunden bleiben.
+
