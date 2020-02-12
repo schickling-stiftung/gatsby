@@ -9,10 +9,10 @@ images:
     file: g-franziskus.jpg  
 thought: /bildgedanken/022219franziskus/
 subnav:
-  - text: '2018'
-    link: /veranstaltungen/2018/
   - text: '2019'
     link: /veranstaltungen/2019/
+  - text: '2020'
+    link: /veranstaltungen/2020/
 ---
 
 **Freitag, 29. März 17 Uhr** „Leben im Bild“ 
