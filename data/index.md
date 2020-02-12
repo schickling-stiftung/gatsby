@@ -1,14 +1,10 @@
 ---
 title: Startseite
 images:
-  - link: #
-    file: g-heimsuchung.jpg
-  - link: #
-    file: g-turm.jpg
-  - link: /werke/sonnenskulptur/
-    file: g-sonne.jpg
-  - link: #
-    file: g-loewenzahn.jpg
+  - file: g-heimsuchung.jpg
+  - file: g-turm.jpg
+  - file: g-sonne.jpg
+  - file: g-loewenzahn.jpg
 thought: /bildgedanken/122019weihnachten/
 ---
 

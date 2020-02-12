@@ -1,14 +1,10 @@
 ---
 title: Gedenkwochenende
 images:
-  - link: /veranstaltungen/2014/
-    file: g-erich.jpg
-  - link: /veranstaltungen/2014/eurydike/
-    file: g-david-harfe.jpg
-  - link: /veranstaltungen/2014/hopfenzitz/
-    file: g-ruth-aehrenleserin.jpg
-  - link: 4
-    file: g-stier.jpg
+  - file: g-erich.jpg
+  - file: g-david-harfe.jpg
+  - file: g-ruth-aehrenleserin.jpg
+  - file: g-stier.jpg
 subnav:
   - text: '2013'
     link: /veranstaltungen/2013/

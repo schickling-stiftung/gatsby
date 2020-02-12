@@ -1,14 +1,10 @@
 ---
 title: Veranstaltungen
 images:
-  - link: /veranstaltungen/schneider/
-    file: g-schneiders.jpg
-  - link: /werke/sonnenskulptur/
-    file: g-sonne.jpg
-  - link: /veranstaltungen/seminar/
-    file: g-eggseminar.jpg
-  - link: /veranstaltungen/benedict/
-    file: g-benedict.jpg
+  - file: g-schneiders.jpg
+  - file: g-sonne.jpg
+  - file: g-eggseminar.jpg
+  - file: g-benedict.jpg
 thought: /bildgedanken/122019weihnachten/ 
 --- 
 [Jahresprogramm 2019](/veranstaltungen/2019/)  
