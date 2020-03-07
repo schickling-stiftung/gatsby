@@ -3,6 +3,7 @@ title: '2020'
 images:
   - file: g-zweimenschen.jpg
   - file: g-kammenos.jpg
+  - file: g-schwanghart.jpg
 thought: /bildgedanken/022219franziskus/
 subnav:
   - text: '2019'
