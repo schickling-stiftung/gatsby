@@ -7,7 +7,8 @@ Führungen und Besichtigungen sind auf Vereinbarung möglich. Die Hauskapelle is
 [**Veranstaltungen 2020**](/veranstaltungen/2020/)  
 
 
-Einladung zu [**Leben im Bild 2020**](/bildgedanken/01172020lebenimbild/)
-
-[**Ausstellung in Leitershofen**](/veranstaltungen/2020/leitershofenausstellung/)   
-[**Seminartag zur Ausstellung**](/veranstaltungen/2020/leitershofenseminar/)
+[**Leben im Bild 2020**](/bildgedanken/01172020lebenimbild/)
+muss leider entfallen. Stattdessen wird eine Audio-Datei zum Thema "Orpheus und Eurydike" erstellt!
+  
+[**Aufbruch zum Staunen**](/veranstaltungen/2020/leitershofenausstellung/)   
+Einblicke in die Ausstellung zu Passion und Ostern
