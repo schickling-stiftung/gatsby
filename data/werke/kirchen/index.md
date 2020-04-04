@@ -22,7 +22,7 @@ subnav:
 # Beispiele sakraler Kunst
 
 1961 [Altenstadt a.d. Waldnaab:](/werke/kirchen/altenstadt/) Glasfenster-Zyklen  
-1964 [Ägidius-Kirche Pottenstetten](http://www.st-vitus.de/potindex.html) (Oberpfalz): Altarkreuz, Kreuzweg  
+1964 [Ägidius-Kirche Pottenstetten](/werke/kirchen/pottenstetten/) (Oberpfalz): Altarkreuz, Kreuzweg  
 1966 Memmingerberg: Altarkreuz St.Ambrosius  
 1967 [Regensburg St.Konrad](/werke/kirchen/regensburg-st-konrad/): Glasfenstergiebel  
 1969 München-Pullach [Schöpfungsfenster St.Gabriel](/werke/kirchen/pullach/)  

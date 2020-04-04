@@ -5,7 +5,7 @@ image: image.jpg
 
 # Palmsonntag
 
-Aus dem Kreuzweg-Zyklus von Erich Schickling in Pottenstetten/Oberpfalz
+Aus dem [Kreuzweg-Zyklus](/werke/kirchen/pottenstetten/) von Erich Schickling in Pottenstetten/Oberpfalz
 Entstanden 1964/65
 Auf Holztafeln gemalt mit Versilberung
 
