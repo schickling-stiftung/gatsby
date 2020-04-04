@@ -9,7 +9,7 @@ images:
     file: g-orpheuseurydike.jpg
   - link: #
     file: g-leo.jpg
-thought: /bildgedanken/122019weihnachten/
+thought: /bildgedanken/20200404palmsonntag/
 subnav:
   - text: Der Künstler
     link: /erich-schickling/

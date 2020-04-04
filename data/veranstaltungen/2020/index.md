@@ -4,7 +4,7 @@ images:
   - file: g-zweimenschen.jpg
   - file: g-kammenos.jpg
   - file: g-schwanghart.jpg
-thought: /bildgedanken/022219franziskus/
+thought: /bildgedanken/20200404palmsonntag/
 subnav:
   - text: '2019'
     link: /veranstaltungen/2019/
