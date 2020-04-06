@@ -8,5 +8,5 @@ Einblicke in die Ausstellung Leitershofen
 
 Durch die Passionszeit und auf Ostern zu möchten wir Sie täglich mit Bild und Text begleiten:
    
-[**Zum Palmsonntag**](/bildgedanken/20200405palmsonntagschuller/)
+[**Zum Montag 6. April**](/bildgedanken/20200406schuller/)
      
