@@ -7,7 +7,7 @@ images:
     file: g-glockenturm.jpg
   - link: /foerderkreis/konzertraum/
     file: g-konzertraum.jpg
-thought: /bildgedanken/20200406schuller/
+thought: /bildgedanken/20200407schuller/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/
