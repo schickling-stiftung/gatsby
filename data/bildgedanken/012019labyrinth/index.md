@@ -5,8 +5,8 @@ image: image.jpg
 
 # Theseus im Labyrinth
 
-Notizen und Gedanken von Lydia Maidl 
-aus dem Bildgespräch am 1.12.2018
+Auszug aus der Veranstaltungsreihe "Leben im Bild" unter Leitung von Prof. Dr. Lydia Maidl 
+vom 1.12.2018 in der Stiftung.
 
 „Homerisches“ 
 
@@ -51,7 +51,3 @@ Dies ist ein Hölderlin-Vers, den der Maler mit diesem Bild verbunden hat.
 
 Ur-Themen und Träume unseres Menschseins sind verborgen präsent in diesem mythischen Bild, einem archetypischen Bild, das jeder in sich trägt und das uns verbindet.
 
-\#"Leben im Bild"
-Unter diesem Motto finden monatlich Bildgespräche und Hinführungen mit Prof. Dr. Lydia Maidl in der Erich-Schickling-Stiftung statt. Herzliche Einladung!
-Nächster Termin: Freitag, 25. Januar 17 Uhr
-Unkostenbeitrag 5 €
