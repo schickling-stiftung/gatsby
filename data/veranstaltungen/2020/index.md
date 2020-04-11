@@ -4,7 +4,7 @@ images:
   - file: g-zweimenschen.jpg
   - file: g-kammenos.jpg
   - file: g-schwanghart.jpg
-thought: /bildgedanken/20200404palmsonntag/
+thought: /bildgedanken/20200411schuller/
 subnav:
   - text: '2019'
     link: /veranstaltungen/2019/
