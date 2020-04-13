@@ -8,6 +8,6 @@ Einblicke in die Ausstellung Leitershofen
 
 Durch die Passionszeit und auf Ostern zu möchten wir Sie täglich mit Bild und Text begleiten:
    
-[**Zum Karsamstag 11. April**](/bildgedanken/20200411schuller/)
+[**Zum Ostersonntag 12. April**](/bildgedanken/20200412schuller/)
 
-     
+[**Zum Ostermontag 13. April**](/bildgedanken/20200413schuller/)    
