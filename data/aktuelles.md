@@ -11,3 +11,5 @@ Durch die Passionszeit und auf Ostern zu möchten wir Sie täglich mit Bild und 
 [**Zum Ostersonntag 12. April**](/bildgedanken/20200412schuller/)
 
 [**Zum Ostermontag 13. April**](/bildgedanken/20200413schuller/)    
+
+[**Zum Dienstag 14. April**](/bildgedanken/20200414schuller/)
