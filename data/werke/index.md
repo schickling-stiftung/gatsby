@@ -7,7 +7,7 @@ images:
    file: g-betonglasfenster.jpg
  - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/20200411schuller/
+thought: /bildgedanken/20200415schuller/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/

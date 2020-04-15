@@ -9,7 +9,7 @@ images:
     file: g-orpheuseurydike.jpg
   - link: #
     file: g-leo.jpg
-thought: /bildgedanken/20200411schuller/
+thought: /bildgedanken/20200415schuller/
 subnav:
   - text: Der Künstler
     link: /erich-schickling/
