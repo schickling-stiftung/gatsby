@@ -1,0 +1,27 @@
+---
+layout: image
+image: image.jpg
+---
+
+# Sonnengesang des Franziskus
+  
+Ostern feiern, also den Sieg des Lebens über den Tod, hat als Konsequenz eine ganz eigene Sicht der Wirklichkeit. Deren höchste Form ist wohl in dem Text verdichtet, den wir den „Sonnengesang“ des Franz von Assisi nennen. Darin besingt er alle Teile der gesamten Schöpfung als „Brüder“ und „Schwestern“, weil sie wie wir Menschen von jenem Gott getragen und gewollt sind, der bereits im Alten Testament  „ein Freund des Lebens“ ist und sich an Ostern endgültig als solcher erwiesen hat. Darum kreist christlicher Glaube seit jenem Ostern damals in Jerusalem.
+
+Erich Schickling hat sich den Heiligen aus Umbrien immer wieder vorgenommen. In einem früheren Newsletter zeigt ich Ihnen bereits das Bild von dessen Stigmatisierung, des Empfangs der Wundmale Christi auf dem Berg La Verna. Heute nun seinen „Sonnengesang“:
+
+Schickling gestaltet ein Kaleidoskop der Schöpfung: viele Prismen ganz unterschiedlicher Formen, Farben und Geschöpfe werden gezeigt. Pflanzen und Tiere, Luft und Wasser, Menschen, die musizieren, und Menschen, die anderen dienen, Sonne und Mond, Dunkel und Licht. Fast meint man, das Bild schütteln zu können, die Prismen würden sich dann anders zusammensetzen, aber genau wieder die ganze Schöpfung zeigen, immer im Wirbel um die Sonne herum, gleich wo die stünde. Die Dynamik der Schöpfung, des Lebens, und wir mitten hineingestellt zwischen all die um uns kreisenden „Brüder“ und „Schwestern“ der Welt.
+
+Vor einigen Jahrzehnten, 1981, hat der jüngst verstorbene brasilianische Befreiungstheologe und Franziskaner Leonardo Boff über Franz von Assisi mit Verweis auf Thomas von Celano, den ersten zeitgenössischen Biographen, folgende Zeilen geschrieben, deren Aktualität heute noch mehr in die Augen stechen, als sie es damals schon taten:
+
+„Die Welt, in der Franziskus lebt, ist durchweht von unendlicher Zärtlichkeit… So erklärt sich, dass Franziskus überraschend, aber konsequent den Brüdern beim Baumfällen verbot, die Wurzeln auszugraben, in der Hoffnung, dass sie wieder ausschlügen. Die Gärtner wies er an, ein Eckchen frei zu lassen und nicht zu bestellen, damit dort alles mögliche Grün (einschließlich des Unkrauts) wachsen könne, denn auch diese Kräuter verkündigten den ´herrlichen Vater aller Dinge´. Darüber hinaus ließ er in den Gärten, in denen die Brüder Gemüse und Blumen pflanzten, ´ein Gärtchen mit duftenden und blühenden Kräutern anlegen, damit sie die Beschauer anregten, der ewigen Himmelslust zu gedenken´.“ Klingt echt aktuell; nachhaltig nennen wir das heute.
+
+Um aber auch auf den theologischen Gehalt einzugehen - es heißt, die Begeisterung für den Heiligen aus Umbrien sei Erich Schickling von Romano Guardini her zugewachsen, dessen Predigten in der Universitätskirche St. Ludwig und dessen Vorlesungen im stets überfüllten größten Hörsaal der Universität eine riesige Zuhörerschar im München der Fünfziger Jahre bis hinein in die Mitte der Sechziger Jahre faszinierte. Deshalb will ich ein paar Sätze Guardinis zitieren, die jene Aura und jenes hohe geistliche Pathos deutlich machen können, von denen geprägt auch Erich Schickling „seinen“ Sonnengesang des Franz von Assisi malt: „Man hat aus ihm ein lyrisches Wesen gemacht, während er in Wahrheit ein kühner, glühender Geist war und gegen sich selbst von einer Härte, vor der einen schaudert… In ihm und um ihn her ist ein Raum entstanden, in welchem die Dinge ganz frei wurden; schön, klar und jenes tiefen Zutrauens voll, das sich in dem immer wiederkehrenden ´Bruder´ und ´Schwester´ des Sonnengesanges ausdrückt. Das hätte pantheistische Lyrik nie vermocht… Es ist der Raum, in welchem nach der Prophetie des Paulus und der Apokalypse einst die neue Schöpfung sein wird.“
+
+In der Mitte des Bildes, fest auf dem Boden, mit den Wundmalen Jesus gleich und zugleich fast verwachsen mit dem Baum hinter sich, steht der Heilige. Ernst, herb, gar nicht gefühlsromantisch. Davor bewahren ihn schon die Wundmale. Deshalb ein zweites Zitat von Guardini aus einem anderen Zusammenhang:  „Wir heben diesen oder jenen Zug heraus, etwa die Liebe, oder die Armut, und fühlen, dass damit nichts gesagt ist; dann wieder kommt es uns vor, als ob er nicht ein heiliger unter andern, sondern der Heilige schlechthin sei – bis uns eines Tages klar wird, woher diese seltsame Verlegenheit kommt: Sein besonderes Charisma besteht darin, an Jesus zu erinnern. Die Behauptung klingt sonderbar. Sagten wir nicht, die Heiligen seien die Verdeutlichung Christi? Wohl, das sind sie. Sie drücken Christus aus. Sie übersetzen den, welcher der Herr und Inbegriff ist, in eine besondere menschliche Möglichkeit der Struktur, der sozialen Schichtung, der Zeit, der Not, der Aufgabe. Das tun alle; Franziskus tut mehr: Er übersetzt nicht, sondern vergegenwärtigt. Wer an ihn gerät, muss an Christus denken.“
+
+
+[Lesen Sie den ganzen Text auf dem Newsletter](https://schuller-florian.de/corona/2020/04/corona-trotzen-23/) des Autors Dr. Florian Schuller!
+
+
+Diese Betrachtungen und Denkanstöße zur Passionszeit und zu den Ostertagen stammen von Monsignore Dr. Florian Schuller, 2000-2018 Direktor der Katholischen Akademie Bayern. In seinen täglichen Newslettern an seine Pfarrgemeinde Straßberg und an Freunde thematisiert er in diesen Tagen Bilder von Erich Schickling. Seine Texte dürfen dankenswerterweise auch auf unserer Homepage erscheinen. Die gesamten fortlaufenden Newsletter von Dr. Schuller sind unter dem Motto "Corona trotzen" zu finden unter   
+https://schuller-florian.de/corona/

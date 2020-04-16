@@ -13,4 +13,4 @@ Gedanken zum Bild OSTERMORGEN
 [**Zum Ostermontag 13. April**](/bildgedanken/20200413schuller/)      
 [**Zum Dienstag 14. April**](/bildgedanken/20200414schuller/)
   
-[**Wunderbarer Fischfang**](/bildgedanken/20200415schuller/)
+[**Sonnengesang des Franziskus**](/bildgedanken/20200416schuller/)
