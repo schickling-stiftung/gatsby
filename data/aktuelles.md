@@ -13,4 +13,4 @@ Gedanken zum Bild OSTERMORGEN
 [**Zum Ostermontag 13. April**](/bildgedanken/20200413schuller/)      
 [**Zum Dienstag 14. April**](/bildgedanken/20200414schuller/)
   
-[**Hälfte des Lebens**](/bildgedanken/20200417schuller/)
+[**Magdalena**](/bildgedanken/20200419schuller/)
