@@ -13,4 +13,4 @@ Gedanken zum Bild OSTERMORGEN
 [**Zum Ostermontag 13. April**](/bildgedanken/20200413schuller/)      
 [**Zum Dienstag 14. April**](/bildgedanken/20200414schuller/)
   
-[**Magdalena**](/bildgedanken/20200419schuller/)
+[**Ottobeuren zu Pfingsten**](/bildgedanken/20200420schuller/)
