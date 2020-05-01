@@ -1,16 +1,13 @@
 ---
 title: Aktuelles
 ---
-Auch in der Erich-Schickling-Stiftung ruhen vorerst die [**Veranstaltungen 2020**](/veranstaltungen/2020/) und die Führungen. 
 
+**Auf Anmeldung** bieten wir am Sonntag, 10. Mai um 15 Uhr wieder eine Führung für maximal 10 Personen an.  
+Die [**Veranstaltungen 2020**](/veranstaltungen/2020/) müssen noch warten.
+
+   
 [**Aufbruch zum Staunen**](/veranstaltungen/2020/leitershofenausstellung/)   
 Einblicke in die Ausstellung Leitershofen
 
-Durch die Passionszeit und auf Ostern zu möchten wir Sie täglich mit Bild und Text begleiten:
-   
-Gedanken zum Bild OSTERMORGEN 
-[**Zum Ostersonntag 12. April**](/bildgedanken/20200412schuller/)  
-[**Zum Ostermontag 13. April**](/bildgedanken/20200413schuller/)      
-[**Zum Dienstag 14. April**](/bildgedanken/20200414schuller/)
-  
-[**Ottobeuren zu Pfingsten**](/bildgedanken/20200420schuller/)
+[**Zum Monat Mai**](/bildgedanken/20200501monatmai/)
+
