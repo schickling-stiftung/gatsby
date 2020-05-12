@@ -3,12 +3,11 @@ layout: image
 image: image.jpg
 ---
 
-# Sonntag, 17. Mai
-Museumstag in der Stiftung  
-10 – 12 Uhr Ausstellungsbesuch in der Stiftung bei freiem Eintritt  
-15 Uhr Führung
+# Pfingstmontag 1. Juni 17 Uhr
   
-#16.30 Uhr Konzert nach der Führung 
+In der Grünkraft des Lichts.
+„Orpheus und Eurydike“ in pfingstlicher Perspektive. 
+Betrachtungen vor und unter dem Bild mit Prof. Dr. Lydia Maidl. 
 mit [**Günter Schwanghart, Klarinette**](http://www.schwanghart.de/), und Georg Wolf, Vibraphon
 
 

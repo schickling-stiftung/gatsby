@@ -14,55 +14,33 @@ subnav:
 
 **VERANSTALTUNGEN 2020** 
 
-
-**Sonntag, 3. Mai um 16.30 Uhr** Konzert nach der Führung  
-Kammermusik mit dem Duo 
-Almut Frenzel-Riehl, Violine, und Susanne Jutz-Miltschitzky, Klavier
+Wegen der Corona-Beschränkungen fallen leider viele Veranstaltungen aus oder werden verschoben.
 
 
-[**Samstag, 16. Mai um 15 Uhr**](/veranstaltungen/2020/rothbojadziev/)  
+[**Samstag, 16. Mai um 15 Uhr**](/veranstaltungen/2020/rothbojadziev/)  wird verschoben  
 Aufbrüche der Malerei zwischen Darstellung und Abstraktion im Werk Erich Schicklings
 Kunstgeschichtlicher Vortrag von Dr. phil. Gertrud Roth-Bojadziev (Augsburg)
 
 
 **Sonntag, 17. Mai**
-Museumstag in der Stiftung 
- 
-10 – 12 Uhr Ausstellungsbesuch in der Stiftung bei freiem Eintritt  
-15 Uhr Führung  
-
-[**16.30 Uhr Konzert nach der Führung**](/veranstaltungen/2020/georgwolf/)
-mit Günter Schwanghart, Klarinette, und Georg Wolf, Vibraphon
+Der Internationale Museumstag findet nicht statt.
+   
+Besuchen Sie an den Veranstaltungstagen oder nach Vereinbarung auch die „Galerie am Turm“ mit Bildern von Elisabeth Schickling! Tel. 08332-470  
   
-„Augenblicke in Schwingung“ kennzeichnen die Auftritte des Klarinettisten und Improvisationskünstlers [**Günter Schwanghart**](http://www.schwanghart.de/). Diesmal findet das tönende Holzinstrument zusammen mit den schwingenden Röhren des Vibraphons, gespielt vom Percussionisten und Musikpädagogen [**Georg Wolf**](/veranstaltungen/2020/georgwolf/).
+Das Klavier-Recital mit Kaya Han am 1.Juni wird verschoben!
 
+Neu: [**Pfingstmontag, 1. Juni um 17 Uhr In der Grünkraft des Lichts**](/veranstaltungen/2020/orpheus/)     
+„Orpheus und Eurydike“ in pfingstlicher Perspektive. 
+Betrachtungen vor und unter dem Bild Erich Schicklings mit [**Prof. Dr. Lydia Maidl**](/veranstaltungen/2020/lydia/).  
+Musik mit Günter Schwanghart (Klarinette) und Georg Wolf (Vibraphon).
 
-Besuchen Sie am Museumstag, an den Veranstaltungstagen oder nach Vereinbarung auch die „Galerie am Turm“ mit Bildern von Elisabeth Schickling! Tel. 08332-470
-
-
-**Freitag, 29. Mai um 18 Uhr**  
-Chorkonzert und Bildmeditation  
-„Wo bricht`s, allgegenwärtigen Glücks voll
-Donnernd aus heiterer Luft über die Augen herein?“
-(Hölderlin)
-  
-Pfingstliche Betrachtungen mit Prof. Dr. Lydia Maidl 
-  
-Das Ensemble „project vocal“ unter Leitung von Georg Piel singt Teile aus „Zwölf geistliche Gesänge“ von Heinrich Schütz sowie die Missa syllabica von Arvo Pärt.
-
-
-[**Pfingstmontag, 1. Juni um 15 Uhr**](/veranstaltungen/2020/kayahan/)   
-**Beethoven zum 250. mit Kaya Han**  
-Klavier-Recital mit Werken von Ludwig van Beethoven, Ishijima und Chopin  
-
-
-[**Samstag, 20. Juni um 16 Uhr**](/veranstaltungen/2020/triobbb/)   
+[**Samstag, 20. Juni um 16 Uhr**](/veranstaltungen/2020/triobbb/)   entfällt   
 **Kammermusik mit dem Trio BBB**
 Kathrin Bäz, Querflöte
 Daniel Bäz, Fagott
 Melanie Bähr, Klavier
 
-[**Samstag, 4. Juli um 18 Uhr**](/veranstaltungen/2020/liebeslieder/)  
+[**Samstag, 4. Juli um 18 Uhr**](/veranstaltungen/2020/liebeslieder/)  auf 2021 verschoben  
 **Spanische Liebeslieder von Robert Schumann**
 
 

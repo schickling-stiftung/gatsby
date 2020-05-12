@@ -2,12 +2,11 @@
 title: Aktuelles
 ---
 
-**Auf Anmeldung** bieten wir am Sonntag, 10. Mai um 15 Uhr wieder eine Führung für maximal 10 Personen an.  
-Die [**Veranstaltungen 2020**](/veranstaltungen/2020/) müssen noch warten.
+[**Auf Anmeldung**](/fuehrungen/) bieten wir immer sonntags um 15 Uhr  eine Führung für maximal 10 Personen an.  
 
-   
-[**Aufbruch zum Staunen**](/veranstaltungen/2020/leitershofenausstellung/)   
-Einblicke in die Ausstellung Leitershofen
+[**Pfingstmontag, 1. Juni um 17 Uhr**](/veranstaltungen/2020/orpheus/)  
+Orpheus und Eurydike
+
 
 [**Zum Monat Mai**](/bildgedanken/20200501monatmai/)
 

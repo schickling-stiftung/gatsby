@@ -3,6 +3,4 @@ layout: image
 image: image.jpg
 ---
 
-#Amaryllis und Lilien
-
-Hinterglasbild von Erich Schickling
+#Rhododendronblüte in der Erich-Schickling-Stiftung
