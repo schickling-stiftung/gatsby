@@ -7,7 +7,7 @@ images:
    file: g-betonglasfenster.jpg
  - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/20200501monatmai/
+thought: /bildgedanken/pfingsten2020/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/

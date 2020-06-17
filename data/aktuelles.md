@@ -2,11 +2,12 @@
 title: Aktuelles
 ---
 
-[**Auf Anmeldung**](/fuehrungen/) bieten wir immer sonntags um 15 Uhr  eine Führung für maximal 10 Personen an.  
-
-Orpheus und Eurydike  
-[**Pfingstmontag, 1. Juni um 17 Uhr**](/veranstaltungen/2020/orpheus/)  
+[**Auf Anmeldung**](/fuehrungen/) bieten wir sonntags um 15 Uhr  eine Führung für maximal 10 Personen an. Für Gruppen können auch andere Termine angefragt werden.
+   
+[**Sommerkonzert   
+mit den Geschwistern Kammenos**  
+am **Samstag, 25. Juli um 18 Uhr**](/veranstaltungen/2020/kammenos/)  
 Nur auf Anmeldung!  
 
-[**Zum Monat Mai**](/bildgedanken/20200501monatmai/)
+[**Zu Pfingsten**](/bildgedanken/pfingsten2020/)
 

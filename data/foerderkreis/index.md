@@ -7,7 +7,7 @@ images:
     file: g-glockenturm.jpg
   - link: /foerderkreis/konzertraum/
     file: g-konzertraum.jpg
-thought: /bildgedanken/20200415schuller/
+thought: /bildgedanken/pfingsten2020/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/
