@@ -4,7 +4,7 @@ images:
   - file: g-zweimenschen.jpg
   - file: g-kammenos.jpg
   - file: g-schwanghart.jpg
-thought: /bildgedanken/pfingsten2020/
+thought: /bildgedanken/haelftedeslebens/
 subnav:
   - text: '2019'
     link: /veranstaltungen/2019/
