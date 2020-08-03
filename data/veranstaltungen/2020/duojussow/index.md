@@ -5,7 +5,8 @@ image: image.jpg
 
 # Duo Andrej und Alex Jussow
 Konzert nach der Führung am   
-Sonntag. 9. August um 16.30 Uhr
+Sonntag. 9. August um 16.30 Uhr  
+anstelle des Violine-Solo-Programmes des erkrankten Prof. Michael Grube.
 
 Ludwig van Beethoven:		  
 Sonate für Klavier und Violine   Es-Dur op. 12 Nr.3     
