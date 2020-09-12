@@ -77,32 +77,21 @@ Im Zusammenhang mit dem Eggisrieder Seminar:
 [**Samstag. 5. September um 18 Uhr**](/veranstaltungen/2020/jussow/)   
 **Klavierabend Beethoven zum 250. mit Andrej Jussow**
   
-**Sonntag, 20. September um 16.30 Uhr**  
+[**Sonntag, 20. September um 16.30 Uhr**](/veranstaltungen/2020/arabella/)  
 Konzert nach der Führung
 Franz Liszt blickt auf Beethoven
 Zum Abschluss des Beethoven-Jahres führt die Pianistin und Musikwissenschaftlerin Dr. Arabella Pare die Hörer von den 32 C-Moll-Variationen über die Liszt’sche Bearbeitung von Beethovens „Adelaide“ bis hin zu Liszts furioser „Rhapsodie espagnol“. Eine Stunde spannender Musik mit Moderation durch die Interpretin!
 
 
 
-Die winterlichen Gesprächskreise „Leben im Bild“ finden ihre Fortsetzung in 2020, jeweils freitags um 17 Uhr am 17. Januar, 21. Februar und 27. März.
-Unter Leitung von Prof. Dr. Lydia Maidl werden einzelne Bildthemen gemeinsam entdeckt und ins persönliche Wahrnehmen geführt. Gemalte Bilder können innere Bilder anstoßen, in denen wir unser Leben wie im Spiegel erkennen und seine verborgenen Sinnlinien erahnen. C.G. Jung nannte solche Innenbilder oder Traumbilder Archetypen. Für den Künstler und Mystiker Erich Schickling waren diese Fragen immerwährender Beweggrund seines Schaffens in biblischen und mythischen Bildern.
 
 
 
-**1. März bis 3. Mai**  
+
+**1. März bis 3. Mai, jetzt verlängert bis 27.9.**  
 „Aufbruch zum Staunen“  
 Ausstellung mit Werken von Erich Schickling zu Passion und Auferstehung  
 Exerzitienhaus Augsburg Leitershofen, Krippackerstr. 6, 86391 Stadtbergen   
-**Sonntag, 1. März um 12 Uhr**
-Vernissage mit einer Einführung von Dr. Florian Schuller  
-**Samstag, 21. März 14.30 Uhr**
-Führung durch die Ausstellung mit Ulrike Meyer
-
-**Samstag, 4. April 14 Uhr – 17:30 Uhr**  
-„Wo Gefahr ist, da wächst das Rettende auch“ (Hölderlin)  
-Seminar zur Ausstellung mit Prof. Dr. Lydia Maidl im Exerzitienhaus Leitershofen.   
-Bitte eigenen Flyer anfragen!
-
 
 Platzreservierung empfohlen unter
 Tel. 08332-936424 oder 0171-9715083 (Ulrike Meyer) oder email: info@schickling-stiftung.de
