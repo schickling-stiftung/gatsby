@@ -2,12 +2,13 @@
 title: Führungen
 ---
 
-Führungen sonntags um 15 Uhr  
-Zur Zeit nur auf Anmeldung unter Tel. 08332-936424 oder 0171-9715083 oder   
-email: info@schickling-stiftung.de
+Führungen sonntags um 15 Uhr von April bis Oktober.
+Letzte Führung am Sonntag, 25. Okt. um 15 Uhr. 
+Treffpunkt bei der Brücke am Parkplatz.
+Anmeldung unter Tel. 08332-936424 oder 0171-9715083 email: info@schickling-stiftung.de
 
-Eintritt + Führung 5 €, freier Eintritt für Kinder.   
-Für Gruppen können auch andere Termine vereinbart werden.   
+Eintritt incl. Führung 5 €.  
+Auch im November bis März sind Termine für Führungen und Besichtigungen nach Vereinbarung möglich.
 
-Treffpunkt bei der Brücke am Parkplatz
+
 
