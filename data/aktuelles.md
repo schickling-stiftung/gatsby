@@ -2,11 +2,11 @@
 title: Aktuelles
 ---
 
-Am Sonntag, 25. Oktober um 15 Uhr findet die letzte reguläre Führung statt. [Führungen und Besichtigungen](/fuehrungen/) sind nach Vereinbarung weiterhin möglich.
+In den Wintermonaten ruhen die Veranstaltungen in der Erich-Schickling-Stiftung.   
+[Führungen und Besichtigungen](/fuehrungen/) sind auf Anfrage weiterhin möglich.  
+Unser Veranstaltungsprogramm 2021 ist in Planung.
    
-**Orpheus im Flötenton**  
-[**Sonntag, 25.Oktober um 16.30 Uhr**](/veranstaltungen/2020/orpheusnoichl/)  
-Nur auf Anmeldung!  
 
-[**Zum Bildgedanken**](/bildgedanken/haelftedeslebens/)
+
+[**Bildgedanken im Advent**](/bildgedanken/20201129adventdavid/)
 

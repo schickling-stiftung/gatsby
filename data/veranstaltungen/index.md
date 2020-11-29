@@ -5,7 +5,7 @@ images:
   - file: g-sonne.jpg
   - file: g-eggseminar.jpg
   - file: g-benedict.jpg
-thought: /bildgedanken/haelftedeslebens/ 
+thought: /bildgedanken/20201129adventdavid/ 
 --- 
 [Jahresprogramm 2019](/veranstaltungen/2019/)  
 [Jahresprogramm 2020](/veranstaltungen/2020/) 

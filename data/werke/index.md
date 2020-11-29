@@ -7,7 +7,7 @@ images:
    file: g-betonglasfenster.jpg
  - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/pfingsten2020/
+thought: /bildgedanken/20201129adventdavid/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/

@@ -3,7 +3,6 @@ title: Führungen
 ---
 
 Führungen sonntags um 15 Uhr von April bis Oktober.
-Letzte Führung am Sonntag, 25. Okt. um 15 Uhr. 
 Treffpunkt bei der Brücke am Parkplatz.
 Anmeldung unter Tel. 08332-936424 oder 0171-9715083 email: info@schickling-stiftung.de
 
