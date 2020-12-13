@@ -10,3 +10,5 @@ Unser Veranstaltungsprogramm 2021 ist in Planung.
 
 [**Bildgedanken im Advent**](/bildgedanken/20201129adventdavid/)
 
+[**Bildgespräche in der Ausstellung**](/https://www.youtube.com/watch?v=3nhrK_LALV0&list=PLtBXVmJbclJjH78xhvOrsd8FzMtt0k70R&index=1&t=20s/) im Bildungshaus St. Luzen Hechingen
+
