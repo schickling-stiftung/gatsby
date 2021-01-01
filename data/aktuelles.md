@@ -16,4 +16,5 @@ im Bildungshaus St. Luzen Hechingen
 [**1 David**](https://www.youtube.com/watch?v=3nhrK_LALV0&list=PLtBXVmJbclJjH78xhvOrsd8FzMtt0k70R&index=1&t=20s/)  
 [**2 Vision des Franziskus**](https://www.youtube.com/watch?v=C74y1XskCms&feature=youtu.be/)  
 [**3 Flucht nach Ägypten**](https://youtu.be/uFxONC-PU24/)  
-[**4 Madonna in Blau**](https://www.youtube.com/watch?v=RMSw2jwDYDE&feature=youtu.be/)
+[**4 Madonna in Blau**](https://www.youtube.com/watch?v=RMSw2jwDYDE&feature=youtu.be/)  
+[**5 Der Bogenschütze**](https://youtu.be/R7wM3APevTg/)
