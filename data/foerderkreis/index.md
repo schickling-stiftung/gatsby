@@ -7,7 +7,7 @@ images:
     file: g-glockenturm.jpg
   - link: /foerderkreis/konzertraum/
     file: g-konzertraum.jpg
-thought: /bildgedanken/20201129adventdavid/
+thought: /bildgedanken/20210202simeon/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/
