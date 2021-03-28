@@ -1,16 +1,18 @@
 ---
 title: Aktuelles
 ---
+[Führungen und Besichtigungen](/fuehrungen/) sind vorerst nur auf Anfrage möglich.  
 
-In den Wintermonaten ruhen die Veranstaltungen in der Erich-Schickling-Stiftung.   
-[Führungen und Besichtigungen](/fuehrungen/) sind auf Anfrage weiterhin möglich.  
-Unser Veranstaltungsprogramm 2021 ist in Planung.
+[Veranstaltungsprogramm 2021](/veranstaltungen/2021/)
    
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
+  
+[Erlebnistag 1. Mai](/veranstaltungen/2021/20210501erlebnistag/)
 
-**Bildgespräche**  
-in der Wanderausstellung  
-im Bildungshaus St. Luzen Hechingen   
-[**David**](https://www.youtube.com/watch?v=3nhrK_LALV0&list=PLtBXVmJbclJjH78xhvOrsd8FzMtt0k70R&index=1&t=20s/)   
-[**Der Bogenschütze**](https://youtu.be/R7wM3APevTg/)
+Der Besuch der Veranstaltungen ist nur auf Anmeldung möglich. Rechtzeitige Reservierung wegen beschränkter Platzkapazität!
+
+info@schickling-stiftung.de  
+08332-936424  
+0171.9715083
+

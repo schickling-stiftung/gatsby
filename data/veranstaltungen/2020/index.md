@@ -6,10 +6,10 @@ images:
   - file: g-schwanghart.jpg
 thought: /bildgedanken/haelftedeslebens/
 subnav:
-  - text: '2019'
-    link: /veranstaltungen/2019/
   - text: '2020'
     link: /veranstaltungen/2020/
+  - text: '2021'
+    link: /veranstaltungen/2021/
 ---
 
 **VERANSTALTUNGEN 2020** 
