@@ -1,16 +1,16 @@
 ---
 title: Aktuelles
 ---
-[Führungen und Besichtigungen](/fuehrungen/) sind vorerst nur auf Anfrage möglich.  
+[Führungen und Besichtigungen](/fuehrungen/) sind momentan nicht möglich.  
 
 [Veranstaltungsprogramm 2021](/veranstaltungen/2021/)
    
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
   
-[Erlebnistag 1. Mai](/veranstaltungen/2021/20210501erlebnistag/)
+Leider dürfen die Veranstaltungen am 1. und 15. Mai nicht stattfinden!
 
-Der Besuch der Veranstaltungen ist nur auf Anmeldung möglich. Rechtzeitige Reservierung wegen beschränkter Platzkapazität!
+Platzreservierung für spätere Termine ist möglich.
 
 info@schickling-stiftung.de  
 08332-936424  

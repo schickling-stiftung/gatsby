@@ -17,7 +17,8 @@ subnav:
 Der Programmflyer ist in der Stiftung und im Kulturamt Ottobeuren erhältlich.
 Alle Termine unter Vorbehalt der jeweils geltenden Corona-Beschränkungen.  
 
-[**Samstag, 1. Mai um 15 Uhr: Erlebnistag Sonne für die Seele**](/veranstaltungen/2021/20210501erlebnistag/) 
+[**Samstag, 1. Mai um 15 Uhr: Erlebnistag Sonne für die Seele**](/veranstaltungen/2021/20210501erlebnistag/)  
+Darf leider nicht stattfinden. 
     
 [Auftaktveranstaltung zum Projekt Spiritual Care und Kunst](/spiritualcare/)  
   
@@ -42,7 +43,8 @@ Konzert mit der Pianistin und Moderatorin Dr. Arabella Pare
 Werke von Schumann, Brahms und Liszt 
 
 Samstag, 15. Mai 18 Uhr  
-„Auf Flügeln des Gesanges“
+„Auf Flügeln des Gesanges“  
+**Darf leider nicht stattfinden!**  
 Duette und Lieder  
 von Rubinstein, Schumann, Mendelssohn–Bartholdy 
 und Brahms  
