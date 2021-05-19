@@ -5,7 +5,7 @@ images:
   - file: g-halle.jpg
   - file: g-kaya.jpg
   - file: g-david.jpg
-thought: /bildgedanken/20200404palmsonntag/
+thought: /bildgedanken/pfingsten2021/
 subnav:
   - text: '2020'
     link: /veranstaltungen/2020/

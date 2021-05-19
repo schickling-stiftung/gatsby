@@ -5,7 +5,7 @@ images:
   - file: g-sonne.jpg
   - file: g-eggseminar.jpg
   - file: g-benedict.jpg
-thought: /bildgedanken/20200404palmsonntag/ 
+thought: /bildgedanken/pfingsten2021/ 
 --- 
 [Jahresprogramm 2020](/veranstaltungen/2020/)  
 [Jahresprogramm 2021](/veranstaltungen/2021/) 

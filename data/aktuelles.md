@@ -8,7 +8,7 @@ title: Aktuelles
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
   
-Leider dürfen die Veranstaltungen am 1. und 15. Mai nicht stattfinden!
+Leider darf die Veranstaltung am Pfingstmontag 24.5. noch nicht stattfinden!
 
 Platzreservierung für spätere Termine ist möglich.
 
