@@ -1,7 +1,7 @@
 ---
 title: Aktuelles
 ---
-[Führungen und Besichtigungen](/fuehrungen/) sind momentan nicht möglich.  
+[Führungen und Besichtigungen](/fuehrungen/) auf Anmeldung möglich.  
 
 [Veranstaltungsprogramm 2021](/veranstaltungen/2021/)
    
