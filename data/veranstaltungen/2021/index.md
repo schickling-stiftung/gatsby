@@ -55,15 +55,22 @@ Hyun-hwa Park, Klavier
 Pfingstmontag, 24. Mai um 16 Uhr   
 "Per aspera ad astra"   
 Klavier-Recital mit Kaya Han  
-Werke von Ludwig van Beethoven, Han-Ishijima, Robert Schumann
+**Darf leider nicht stattfinden!**
 
-Samstag, 5. Juni um 16 Uhr  
+[**Samstag, 5. Juni um 16 Uhr**](/veranstaltungen/2021/rothbojadziev/)  
 Aufbrüche der Malerei zwischen Figur und Abstraktion  
 im Werk Erichs Schicklings  
 Kunstgeschichtlicher Vortrag mit Dr. phil. Gertrud Roth-Bojadziev (Augsburg)
 
+[**Samstag, 12. Juni, 15 -17 Uhr**](/spiritualcare/)
+Sonne für die Seele. 
+Erholung und Stärkung bei einem geführten Spaziergang 
+durch Kunst und Natur 
+mit Prof. Dr. Lydia Maidl (Tübingen/München)
+  
 Sonntag, 20. Juni um 16.30 Uhr  
 Konzert nach der Führung  
+**Findet nicht statt**
 Das Chorensemble „project vocal“ unter Leitung von Georg Piel und Kurt Renner an der Orgel führt Werke von Heinrich Schütz und Arvo Pärt auf.
 
 Samstag, 3. Juli um 18 Uhr  Spanische Liebeslieder  

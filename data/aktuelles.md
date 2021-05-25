@@ -8,10 +8,14 @@ title: Aktuelles
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
   
-Leider darf die Veranstaltung am Pfingstmontag 24.5. noch nicht stattfinden!
+[**Samstag, 5. Juni um 16 Uhr**](/veranstaltungen/2021/rothbojadziev/)
+Aufbrüche der Malerei - Vortrag  
 
-Platzreservierung für spätere Termine ist möglich.
+[**Samstag, 12. Juni, 15 -17 Uhr**](/spiritualcare/)  
+Sonne für die Seele. Kunstwanderung
 
+
+Anmeldung für alle Veranstaltungen erforderlich!
 info@schickling-stiftung.de  
 08332-936424  
 0171.9715083
