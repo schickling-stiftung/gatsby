@@ -10,6 +10,7 @@ title: Aktuelles
   
 [**Samstag, 5. Juni um 16 Uhr**](/veranstaltungen/2021/rothbojadziev/)
 Aufbrüche der Malerei - Vortrag  
+wird auf Herbst verschoben
 
 [**Samstag, 12. Juni, 15 -17 Uhr**](/spiritualcare/)  
 Sonne für die Seele. Kunstwanderung
