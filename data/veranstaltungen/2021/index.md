@@ -39,8 +39,11 @@ Natur- und Kunsterlebnis „Sonne für die Seele“
 mit Lydia Maidl, Elisabeth Schickling, Ulrike Meyer
 
 18 Uhr „Gesänge der Frühe“  
-Konzert mit der Pianistin und Moderatorin Dr. Arabella Pare  
+[**Konzert mit der Pianistin und Moderatorin Dr. Arabella Pare**](/veranstaltungen/2021/arabella/)  
 Werke von Schumann, Brahms und Liszt 
+
+
+
 
 Samstag, 15. Mai 18 Uhr  
 „Auf Flügeln des Gesanges“  
@@ -60,7 +63,8 @@ Klavier-Recital mit Kaya Han
 [**Samstag, 5. Juni um 16 Uhr**](/veranstaltungen/2021/rothbojadziev/)  
 Aufbrüche der Malerei zwischen Figur und Abstraktion  
 im Werk Erichs Schicklings  
-Kunstgeschichtlicher Vortrag mit Dr. phil. Gertrud Roth-Bojadziev (Augsburg)
+Kunstgeschichtlicher Vortrag mit Dr. phil. Gertrud Roth-Bojadziev (Augsburg)  
+**verschoben auf Herbst!**
 
 [**Samstag, 12. Juni, 15 -17 Uhr**](/spiritualcare/)
 Sonne für die Seele. 
@@ -69,11 +73,11 @@ durch Kunst und Natur
 mit Prof. Dr. Lydia Maidl (Tübingen/München)
   
 Sonntag, 20. Juni um 16.30 Uhr  
-Konzert nach der Führung  
-**Findet nicht statt**
-Das Chorensemble „project vocal“ unter Leitung von Georg Piel und Kurt Renner an der Orgel führt Werke von Heinrich Schütz und Arvo Pärt auf.
+Konzert nach der Führung    
+Noch nicht geklärt.
 
-Samstag, 3. Juli um 18 Uhr  Spanische Liebeslieder  
+
+[**Samstag, 3. Juli um 18 Uhr  Spanische Liebeslieder**](/veranstaltungen/2021/schumann/)  
 Robert Schumann:  
 Spanisches Liederspiel op. 74 nach Emanuel Geibel   
 Spanische Liebeslieder op. 138  
@@ -82,9 +86,9 @@ und Pianoforte vierhändig
 
 Yue Wang, Sopran; Jasmin Désirée Schaff, Mezzosopran; Zhuohan Sun, Tenor; Konstantin Ingenpass, Bariton; Ulrike Meyer und Hartmut Höll, Klavier
 
-Sonntag, 25. Juli um 16.30 Uhr Konzert nach der Führung  
-mit dem Duo Christian Brunner, Violoncello  
-Larissa Bohr-Chernjak, Klavier   
+[**Sonntag, 25. Juli um 16.30 Uhr Konzert nach der Führung**](/veranstaltungen/2021/cellobrunner/)   
+mit dem **Duo Christian Brunner, Violoncello  
+Larissa Bohr-Chernjak, Klavier**    
 Ludwig van Beethoven Drei Variationen-Werke  
 Bohuslav Martinu (1890-1959) Variations on a theme of Rossini   
 Mieczyslaw Weinberg (1919-1996) Sonate für Violoncello Solo Nr. 1 Opus 72

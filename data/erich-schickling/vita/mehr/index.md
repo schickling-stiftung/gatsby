@@ -15,6 +15,7 @@ images:
      durch Dr. Thomas Goppel  
 2009 Preis „Pro Suebia“ der Eugen-Lidl-Stiftung  
 2009 Bayern III "Aus Schwaben und Altbayern": Portrait zum Palmsonntag  
-von Dr. Georg Bayerle  
+von Dr. Georg Bayerle
+  
 
 [zurück](/erich-schickling/vita/)
