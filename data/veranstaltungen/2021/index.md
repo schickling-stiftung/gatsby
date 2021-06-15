@@ -71,20 +71,11 @@ Sonne für die Seele.
 Erholung und Stärkung bei einem geführten Spaziergang 
 durch Kunst und Natur 
 mit Prof. Dr. Lydia Maidl (Tübingen/München)
-  
-Sonntag, 20. Juni um 16.30 Uhr  
-Konzert nach der Führung    
-Noch nicht geklärt.
+ 
 
+[**Samstag, 3. Juli um 18 Uhr  Liederabend der Romantik**](/veranstaltungen/2021/liederromantik/)  
 
-[**Samstag, 3. Juli um 18 Uhr  Spanische Liebeslieder**](/veranstaltungen/2021/schumann/)  
-Robert Schumann:  
-Spanisches Liederspiel op. 74 nach Emanuel Geibel   
-Spanische Liebeslieder op. 138  
-Zwei Zyklen von Gesängen aus dem Spanischen für eine und mehrere Singstimmen mit Begleitung des Pianoforte  
-und Pianoforte vierhändig
-
-Yue Wang, Sopran; Jasmin Désirée Schaff, Mezzosopran; Zhuohan Sun, Tenor; Konstantin Ingenpass, Bariton; Ulrike Meyer und Hartmut Höll, Klavier
+Jasmin Désirée Schaff (Mezzosopran) und Zhuohan Sun (Tenor), gestalten zusammen mit der Pianistin Yuriko Watanabe einen Liederabend mit Werken von Clara und Robert Schumann und Johannes Brahms. 
 
 [**Sonntag, 25. Juli um 16.30 Uhr Konzert nach der Führung**](/veranstaltungen/2021/cellobrunner/)   
 mit dem **Duo Christian Brunner, Violoncello  
