@@ -2,6 +2,7 @@
 title: Aktuelles
 ---
 [Führungen und Besichtigungen](/fuehrungen/) 
+(Keine Sonntagsführung am 27.6.)
   
 [Veranstaltungsprogramm 2021](/veranstaltungen/2021/)
    
