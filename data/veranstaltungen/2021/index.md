@@ -88,6 +88,10 @@ Samstag, 7. August 18 Uhr
 Sommerabend im Museum mit den Geschwistern Kammenos
 Evnike (Violine), Andreas (Blockflöte), Aristophanes (Violoncello) und Andromache (Klavier) bündeln wieder einen Strauß aus ihrem reichen musikalischen Repertoire in unterschiedlichsten Besetzungen.
 
+[**Sonntag, 22. August 11 Uhr**](/veranstaltungen/2021/klarizither/) (Verschoben vom 1. Mai!)  
+11 Uhr „Der Augenblick des Tones im Raum“  
+Matinée mit den Musikern und Improvisationskünstlern Josef Bichlmair (Zither) und Günter Schwanghart (Klarinette und Moderation)
+
 Samstag, 4. September 15 Uhr  
 Klavier-Recital Franziska Lee  
 Franz Schubert Impromptu f-moll    

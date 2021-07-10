@@ -2,15 +2,17 @@
 title: Aktuelles
 ---
 [Führungen und Besichtigungen](/fuehrungen/) 
-(Keine Sonntagsführung am 27.6.)
+
   
 [Veranstaltungsprogramm 2021](/veranstaltungen/2021/)
    
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
 
-[**Samstag, 3. Juli 18 Uhr**](/veranstaltungen/2021/liederromantik/)   
-Liederabend der Romantik
+[**Sonntag, 25. Juli 16.30 Uhr**](/veranstaltungen/2021/cellobrunner/)   
+Konzert nach der Führung
+
+Neu: [**Matinée**](/veranstaltungen/2021/klarizither/) vom 1. Mai findet am 22. August statt!
 
 
 

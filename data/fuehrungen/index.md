@@ -15,8 +15,13 @@ Führung incl. Eintritt 10 €
   
 
 Besuch der Ausstellungsräume möglich am     
-Samstag  19.6. 14 - 18 Uhr  
-Sonntag 20.6. 10 - 14 Uhr  
+Samstag  10.7. 14 - 18 Uhr    
+Sonntag 11.7. 10 - 14 Uhr   
+Montag 12.7. 10 - 18 Uhr  
+Freitag 16.7. 10-18 Uhr  
+Samstag 17.7. 10 - 18 Uhr  
+Sonntag 18.7. 10 - 14 Uhr   
+
 Vor Ort tel. unter 0171.9715083 melden!  
 Weitere Besichtigungstermine gerne auf Anfrage.
 
