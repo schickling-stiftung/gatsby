@@ -12,15 +12,11 @@ email: info@schickling-stiftung.de
 Eintritt 5 €  
 Führung incl. Eintritt 10 € 
 
-  
+In der Zeit von Mittwoch 21. bis Samstag 24.7. können die Ausstellungsräume wegen eines Seminares nicht besucht werden.
 
-Besuch der Ausstellungsräume möglich am     
-Samstag  10.7. 14 - 18 Uhr    
-Sonntag 11.7. 10 - 14 Uhr   
-Montag 12.7. 10 - 18 Uhr  
-Freitag 16.7. 10-18 Uhr  
-Samstag 17.7. 10 - 18 Uhr  
-Sonntag 18.7. 10 - 14 Uhr   
+Besuch der Ausstellungsräume wieder möglich am     
+Sonntag 25.7. 10 - 13 Uhr 
+sowie Führung um 15 Uhr 
 
 Vor Ort tel. unter 0171.9715083 melden!  
 Weitere Besichtigungstermine gerne auf Anfrage.
