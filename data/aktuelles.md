@@ -9,10 +9,10 @@ title: Aktuelles
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
 
-[**Sonntag, 25. Juli 16.30 Uhr**](/veranstaltungen/2021/cellobrunner/)   
-Konzert nach der Führung
+[**Samstag, 7. August 18 Uhr**](/veranstaltungen/2021/kammenos) Konzert Geschwister Kammenos  
 
-Neu: [**Matinée**](/veranstaltungen/2021/klarizither/) vom 1. Mai findet am 22. August statt!
+
+Neu: [**Matinée am 22. August**](/veranstaltungen/2021/klarizither/) 
 
 
 

@@ -12,14 +12,10 @@ email: info@schickling-stiftung.de
 Eintritt 5 €  
 Führung incl. Eintritt 10 € 
 
-In der Zeit von Mittwoch 21. bis Samstag 24.7. können die Ausstellungsräume wegen eines Seminares nicht besucht werden.
+Besuch der Ausstellungsräume täglich möglich 
+10 - 18 Uhr.  
+Im voraus oder vor Ort tel. unter 0171.9715083 melden!    
 
-Besuch der Ausstellungsräume wieder möglich am     
-Sonntag 25.7. 10 - 13 Uhr 
-sowie Führung um 15 Uhr 
-
-Vor Ort tel. unter 0171.9715083 melden!  
-Weitere Besichtigungstermine gerne auf Anfrage.
 
 
 Mitglieder des Förderkreises der Erich-Schickling-Stiftung e.V. haben freien Eintritt.

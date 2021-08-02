@@ -84,8 +84,8 @@ Ludwig van Beethoven Drei Variationen-Werke
 Bohuslav Martinu (1890-1959) Variations on a theme of Rossini   
 Mieczyslaw Weinberg (1919-1996) Sonate für Violoncello Solo Nr. 1 Opus 72
 
-Samstag, 7. August 18 Uhr
-Sommerabend im Museum mit den Geschwistern Kammenos
+[**Samstag, 7. August 18 Uhr**](/veranstaltungen/2021/kammenos/)   
+**Sommerabend im Museum mit den Geschwistern Kammenos**  
 Evnike (Violine), Andreas (Blockflöte), Aristophanes (Violoncello) und Andromache (Klavier) bündeln wieder einen Strauß aus ihrem reichen musikalischen Repertoire in unterschiedlichsten Besetzungen.
 
 [**Sonntag, 22. August 11 Uhr**](/veranstaltungen/2021/klarizither/) (Verschoben vom 1. Mai!)  
