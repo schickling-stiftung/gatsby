@@ -92,10 +92,10 @@ Evnike (Violine), Andreas (Blockflöte), Aristophanes (Violoncello) und Andromac
 11 Uhr „Der Augenblick des Tones im Raum“  
 Matinée mit den Musikern und Improvisationskünstlern Josef Bichlmair (Zither) und Günter Schwanghart (Klarinette und Moderation)
 
-Samstag, 4. September 15 Uhr  
-Klavier-Recital Franziska Lee  
+[**Samstag, 4. September 15 Uhr  
+Klavier-Recital Franziska Lee**](/veranstaltungen/2021/franziskalee/)  
 Franz Schubert Impromptu f-moll    
-Domenico Scarlatti Sonate in cis-moll  
+Domenico Scarlatti Sonate in Sonate D-Dur    
 Alexander Skrjabin Etüde op. 8 Nr. 10  
 Franz Schubert Sonate in A-Dur D 959
 
