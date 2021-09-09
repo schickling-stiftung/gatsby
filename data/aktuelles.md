@@ -9,7 +9,6 @@ title: Aktuelles
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
 
-
 Samstag, 11. September um 18 Uhr
 [**Diabelli-Variationen mit dem Pianisten Markus Stange**](/veranstaltungen/2021/stangediabelli/)  
 
