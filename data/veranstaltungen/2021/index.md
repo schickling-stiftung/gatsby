@@ -99,6 +99,11 @@ Domenico Scarlatti Sonate in Sonate D-Dur
 Alexander Skrjabin Etüde op. 8 Nr. 10  
 Franz Schubert Sonate in A-Dur D 959
 
+[**Beethoven zum 251.   
+Diabelli-Variationen mit dem Pianisten Markus Stange**](/veranstaltungen/2021/stangediabelli/)         
+Samstag, 11. September 2021 um 18 Uhr  
+Ludwig van Beethoven:     
+33 Veränderungen über einen Walzer von Anton Diabelli op. 120 in C-Dur
 
 
   

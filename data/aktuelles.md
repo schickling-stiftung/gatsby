@@ -10,11 +10,8 @@ title: Aktuelles
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
 
 
-[**Matinée am 22. August 11 Uhr**](/veranstaltungen/2021/klarizither/)  
-Josef Bichlmair (Zither), Günter Schwanghart (Klarinette)
-
-[**Samstag, 4. September 15 Uhr**](/veranstaltungen/2021/franziskalee/)   
-Klavier-Recital Franziska Lee    
+Samstag, 11. September um 18 Uhr
+[**Diabelli-Variationen mit dem Pianisten Markus Stange**](/veranstaltungen/2021/stangediabelli/)  
 
 Anmeldung für alle Veranstaltungen erforderlich!  
 info@schickling-stiftung.de    
