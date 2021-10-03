@@ -9,10 +9,9 @@ title: Aktuelles
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
 
-Samstag, 11. September um 18 Uhr
-[**Diabelli-Variationen mit dem Pianisten Markus Stange**](/veranstaltungen/2021/stangediabelli/)  
+[**Samstag, 23. Oktober um 14 Uhr**](/veranstaltungen/2021/rothbojadziev/) Kunstgeschichtlicher Vortrag mit Dr. phil. Gertrud Roth-Bojadziev (Augsburg)    
 
-Anmeldung für alle Veranstaltungen erforderlich!  
+Anmeldung erforderlich!  
 info@schickling-stiftung.de    
 08332-936424
 

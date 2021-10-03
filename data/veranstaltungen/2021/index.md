@@ -60,11 +60,6 @@ Pfingstmontag, 24. Mai um 16 Uhr
 Klavier-Recital mit Kaya Han  
 **Darf leider nicht stattfinden!**
 
-[**Samstag, 5. Juni um 16 Uhr**](/veranstaltungen/2021/rothbojadziev/)  
-Aufbrüche der Malerei zwischen Figur und Abstraktion  
-im Werk Erichs Schicklings  
-Kunstgeschichtlicher Vortrag mit Dr. phil. Gertrud Roth-Bojadziev (Augsburg)  
-**verschoben auf Herbst!**
 
 [**Samstag, 12. Juni, 15 -17 Uhr**](/spiritualcare/)
 Sonne für die Seele. 
@@ -105,5 +100,9 @@ Samstag, 11. September 2021 um 18 Uhr
 Ludwig van Beethoven:     
 33 Veränderungen über einen Walzer von Anton Diabelli op. 120 in C-Dur
 
+[**Samstag, 23. Oktober um 14 Uhr**](/veranstaltungen/2021/rothbojadziev/)  
+Aufbrüche der Malerei zwischen Figur und Abstraktion  
+im Werk Erichs Schicklings  
+Kunstgeschichtlicher Vortrag mit Dr. phil. Gertrud Roth-Bojadziev (Augsburg)  
 
   
