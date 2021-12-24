@@ -6,19 +6,9 @@ image: image.jpg
 # „Sonne für die Seele“ 
 Spiritual Care und Kunst 
 
-Samstag, 12. Juni, 15 -17 Uhr
-Sonne für die Seele. 
-Erholung und Stärkung bei einem geführten Spaziergang 
-durch Kunst und Natur   
-mit Prof. Dr. Lydia Maidl (Tübingen/München)
 
-Im Zusammenhang mit dem Projekt „Spiritual Care und Kunst“ und der Unterallgäuer Gesundheitswoche.  
-Eintritt 10 €, für Mitglieder des Förderkreises 8 €  
-Nur auf Anmeldung!
+Angesichts der großen Herausforderungen in der Pflege durch Ökonomisierung, Beschleunigung und aktueller Pandemie braucht es eine Stärkung der Kompetenzen in Selbstfürsorge und im Umgang mit belastenden existenziellen Situationen bei den Pflegenden sowie bei den PatientInnen und ihren Angehörigen. Sowohl qualifizierte Fortbildungen, wie sie die neue Wissenschaft und Praxisanleitung Spiritual Care entwickelt, als auch Orte mit entsprechenden Rahmenbedingungen fehlen weitgehend. 
+Die Schickling-Stiftung ist ein Ort, der sich durch den Zusammenklang von Natur, Architektur, Malerei und Musik auszeichnet und von vielen Besucher*innen als stärkender und orientierender Raum erlebt wird. Die Ressourcenqualität des Ortes sowie die Bildsprache des Künstlers, der existenzielle Themen mit archetypischen Bildmotiven visualisiert, eröffnen Möglichkeiten für innovative Zugänge und Bildungsangebote zu Spiritual Care. Dadurch werden Prozesse der (Selbst-)Wahrnehmung, existenziellen Orientierung, Selbstfürsorge und professionellen Weiterbildung besonders nachhaltig gefördert. 
+Das Innovative und Modellhafte des Projektes liegt darin, Inhalte von Spiritual Care in der Begegnung mit Kunst zu vermitteln. Kunst bietet eine besondere Chance, die Themen von Spiritualität und Religion, welche zum einen in unserer Gesellschaft weitgehend tabuisiert sind, zum anderen von vielen Menschen als intim empfunden werden, mit Zurückhaltung ins Gespräch zu bringen.
 
-Kunst und Natur helfen uns, neu Kraft zu schöpfen und Orientierung zu finden. Das Rauschen der Günz, das farbige Licht des Glases, Architektur, Musik und Natur laden am Ort der Schickling-Stiftung ein, die Seele ein wenig baumeln zu lassen und zur Ruhe zu kommen. Bei einem geführten Weg durch Kunst und Natur öffnen sich Perspektiven für unsere Lebensfragen. Im Lauschen und Schauen sowie im Gespräch können spirituelle Ressourcen erfahrbar werden.
-
-
-Im Kneipp-Jubiläumsjahr lädt die Erich-Schickling-Stiftung zu einem besonderen Projekt ein, ganz im Sinne von Sebastian Kneipps Forderung: „Vergesst mir die Seele nicht!“
-Der Einfluss der spirituellen Dimension wird heute in ihrer Bedeutung für Gesundheit und Lebensbalance immer mehr wahrgenommen. Die wissenschaftliche Disziplin „Spiritual Care“ widmet sich der gemeinsamen Sorge aller helfenden Berufe für die spirituellen Ressourcen, Nöte und Bedürfnisse von Menschen in Krankheit und Krise und von ihren Angehörigen. Sie will dazu Basiskompetenzen vermitteln und die Selbstsorge stärken. Die Schickling-Stiftung wird als Ort wahrgenommen, an dem man durch die Begegnung mit Kunst, Architektur und Natur Kraft schöpfen kann.
-
+Das Projekt wird gefördert durch das Bayerische Staatsministerium für Gesundheit und Pflege.

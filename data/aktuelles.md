@@ -1,17 +1,18 @@
 ---
 title: Aktuelles
 ---
-[Führungen und Besichtigungen](/fuehrungen/) 
+Im Winter bietet die Stiftung keine Öffnungszeiten und Führungen an. Auf Anfrage sind jedoch Besichtigungen möglich. Die Ausstellungsräume sind nicht beheizt.
 
   
-[Veranstaltungsprogramm 2021](/veranstaltungen/2021/)
+[Veranstaltungsprogramm 2021](/veranstaltungen/2021/)  
+Das Veranstaltungsprogramm 2022 ist im Entstehen.
    
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
 
-[**Samstag, 23. Oktober um 14 Uhr**](/veranstaltungen/2021/rothbojadziev/) Kunstgeschichtlicher Vortrag mit Dr. phil. Gertrud Roth-Bojadziev (Augsburg)    
+[**FROHE WEIHNACHTEN**](/bildgedanken/122019weihnachten/) und ein gutes Neues Jahr wünscht Ihnen die   
+Erich-Schickling-Stiftung
 
-Anmeldung erforderlich!  
 info@schickling-stiftung.de    
 08332-936424
 

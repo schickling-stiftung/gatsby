@@ -5,7 +5,7 @@ images:
   - file: g-halle.jpg
   - file: g-kaya.jpg
   - file: g-david.jpg
-thought: /bildgedanken/pfingsten2021/
+thought: /bildgedanken/122019weihnachten/
 subnav:
   - text: '2020'
     link: /veranstaltungen/2020/

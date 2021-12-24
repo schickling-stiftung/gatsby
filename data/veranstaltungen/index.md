@@ -5,7 +5,7 @@ images:
   - file: g-sonne.jpg
   - file: g-eggseminar.jpg
   - file: g-benedict.jpg
-thought: /bildgedanken/pfingsten2021/ 
+thought: /bildgedanken/122019weihnachten/ 
 --- 
 [Jahresprogramm 2020](/veranstaltungen/2020/)  
 [Jahresprogramm 2021](/veranstaltungen/2021/) 
