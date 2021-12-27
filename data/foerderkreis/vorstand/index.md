@@ -14,4 +14,4 @@ Schriftführer: Peter Rietzler
 Beisitzer: Bürgermeister German Fries, Staatsminister Klaus Holetschek, Günter Schwanghart  
 
 
-[**Rückblick auf die Vorsitzenden**](foerderkreis/vorstand/rueckblick/) seit der Gründung des Förderkreises 1998
+[**Rückblick auf die Vorsitzenden**](/foerderkreis/vorstand/rueckblick/) seit der Gründung des Förderkreises 1998
