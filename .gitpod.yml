@@ -1,0 +1,9 @@
+tasks:
+  - init: yarn install
+
+image:
+  file: .gitpod.Dockerfile
+
+github:
+  prebuilds:
+    addCheck: true
