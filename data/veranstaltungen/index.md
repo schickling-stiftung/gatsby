@@ -7,8 +7,8 @@ images:
   - file: g-benedict.jpg
 thought: /bildgedanken/122019weihnachten/ 
 --- 
-[Jahresprogramm 2020](/veranstaltungen/2020/)  
-[Jahresprogramm 2021](/veranstaltungen/2021/) 
+[Jahresprogramm 2021](/veranstaltungen/2021/)  
+[Jahresprogramm 2022](/veranstaltungen/2022/) 
 
 Alle unsere Künstler und Referenten sind ehrenamtlich für die Stiftung tätig. Sie sind dem Hause Schickling in besonderer Weise verbunden. Ihnen gilt zuerst unser Dank! Manche kommen immer wieder zu uns und machen ihr Wort, ihre Musik, ihre Kunst allen zum Geschenk. Junge Musiker erproben hier gerne ihre Programme vor einem wohlgesonnenen Publikum.
 

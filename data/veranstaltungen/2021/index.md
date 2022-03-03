@@ -7,10 +7,10 @@ images:
   - file: g-david.jpg
 thought: /bildgedanken/122019weihnachten/
 subnav:
-  - text: '2020'
-    link: /veranstaltungen/2020/
   - text: '2021'
     link: /veranstaltungen/2021/
+  - text: '2022'
+    link: /veranstaltungen/2022/
 ---
 
 **VERANSTALTUNGEN 2021**   
