@@ -7,7 +7,7 @@ images:
     file: g-glockenturm.jpg
   - link: /foerderkreis/konzertraum/
     file: g-konzertraum.jpg
-thought: /bildgedanken/122019weihnachten/
+thought: /bildgedanken/20220304derschrei/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

@@ -5,7 +5,7 @@ images:
   - file: g-halle.jpg
   - file: g-kaya.jpg
   - file: g-heimsuchung.jpg
-thought: /bildgedanken/122019weihnachten/
+thought: /bildgedanken/20220304derschrei/
 subnav:
   - text: '2021'
     link: /veranstaltungen/2021/

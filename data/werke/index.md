@@ -7,7 +7,7 @@ images:
    file: g-betonglasfenster.jpg
  - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/122019weihnachten/
+thought: /bildgedanken/20220304derschrei/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/
