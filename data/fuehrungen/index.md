@@ -4,7 +4,7 @@ title: Führungen
 
 #Beginn der Sonntagsführungen:
 Sonntag 3. April um 15 Uhr auf Anmeldung   
-Sonntag 10. April (Palmsonntag) 15 - 17 Uhr Öffnungszeit, keine Führung! 
+Sonntag 10. April (Palmsonntag) 15 - 17 Uhr Öffnungszeit, keine Führung!   
 Ostersonntag 18. April Führung auf Anmeldung
 
 Weiterhin sonntags 15 Uhr Führungen.

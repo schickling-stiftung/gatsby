@@ -10,6 +10,9 @@ Das [Veranstaltungsprogramm 2022](/veranstaltungen/2022/) liegt als Flyer vor.
 [Ausstellung zum 10. Todesjahr](/veranstaltungen/2022/gempfing/) von Erich Schickling
 im Pfarrhof Gempfing
 
+[BildImpuls DAVID](https://www.bildimpuls.de/bildimpulsart/begnadeter-ein-klang/)  
+[BildImpuls DER SCHREI](https://www.bildimpuls.de/bildimpulsart/der-schrei/)  
+
 info@schickling-stiftung.de    
 08332-936424
 
