@@ -31,3 +31,5 @@ Pfarrhof Gempfing
 „Den Kundschaftern auf der Spur“ – Ein neuer Weg zu österlichem Entdecken im Bildgespräch    
 Referentin: Prof. Lydia Maidl, LMU München     
 Anmeldung unter 09090 – 1346
+
+Ostermontag, 18. April 14 - 17 Uhr Letzter Ausstellungstag

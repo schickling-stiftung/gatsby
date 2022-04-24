@@ -1,18 +1,16 @@
 ---
 title: Aktuelles
 ---
-Die Ausstellungsräume sind ab April wieder geöffnet. Die erste [Führung](/fuehrungen/) findet am Sonntag 3. April um 15 Uhr statt.
+Führungen sonntags um 15 Uhr 
+[Weitere Info](/fuehrungen/)
    
-Das [Veranstaltungsprogramm 2022](/veranstaltungen/2022/) liegt als Flyer vor.
+Sonderführung am 1. Mai:  
+[**"Klingender Spaziergang"**](/veranstaltungen/2022/spaziergang/)
    
+Die Matinée am 1.Mai ist abgesagt.
+  
+
+[BildImpuls Ostermorgen](https://www.bildimpuls.de/bildimpulsart/ostermorgen/)  
+
+
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
-
-[Ausstellung zum 10. Todesjahr](/veranstaltungen/2022/gempfing/) von Erich Schickling
-im Pfarrhof Gempfing
-
-[BildImpuls DAVID](https://www.bildimpuls.de/bildimpulsart/begnadeter-ein-klang/)  
-[BildImpuls DER SCHREI](https://www.bildimpuls.de/bildimpulsart/der-schrei/)  
-
-info@schickling-stiftung.de    
-08332-936424
-

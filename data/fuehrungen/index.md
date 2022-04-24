@@ -2,16 +2,17 @@
 title: Führungen
 ---
 
-#Beginn der Sonntagsführungen:
-Sonntag 3. April um 15 Uhr auf Anmeldung   
-Sonntag 10. April (Palmsonntag) 15 - 17 Uhr Öffnungszeit, keine Führung!   
-Ostersonntag 18. April Führung auf Anmeldung
+#Sonntagsführungen:
 
-Weiterhin sonntags 15 Uhr Führungen.
-Anmeldung empfohlen!    
+
+Am Sonntag 1. Mai um 15 Uhr findet anstelle der regulären Führung "ein klingender Spaziergang" statt.   
+Weitere Info und Eintrittspreis siehe Veranstaltungen! 
+   
+Weitere Führungen für Gruppen nach Vereinbarung. 
+
 
 Treffpunkt bei der Brücke am Parkplatz.   
-Weitere Führungen für Gruppen nach Vereinbarung.   
+  
   
 Tel. 08332-936424 oder 0171.9715083    
 email: info@schickling-stiftung.de  
@@ -19,9 +20,8 @@ email: info@schickling-stiftung.de
 Eintritt 5 €  
 Führung incl. Eintritt 10 € 
 
-#Besuch der Ausstellungsräume:
-Im März nur auf Vereinbarung
-
+#Weitere Öffnungszeiten:
+Momentan nur auf Anfrage
 
 
 Mitglieder des Förderkreises der Erich-Schickling-Stiftung e.V. haben freien Eintritt.

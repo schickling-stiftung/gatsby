@@ -16,15 +16,17 @@ subnav:
 **VERANSTALTUNGEN 2022**   
 Der Programmflyer ist in der Stiftung und im Kulturamt Ottobeuren erhältlich.
 
-Sonntag, 1. Mai Tag der offenen Tür
+Sonntag, 1. Mai
 in Verbindung mit dem Förderprojekt „Spiritual Care und Kunst“
 
 „Wenn aus der Tiefe kommt der Frühling in das Leben“ (Hölderlin)
 
-11 Uhr: Eine Matinee in Klang, Bild und Wort  
-mit Prof. Dr. Lydia Maidl, Dr. Arabella Pare und Ulrike Meyer (Klaviermusik)
+11 Uhr Eine Matinee in Klang, Bild und Wort  
+mit Prof. Dr. Lydia Maidl, Dr. Arabella Pare und Ulrike Meyer (Klaviermusik)  
+Krankheitsbedingt abgesagt.
 
-15 Uhr: Ein klingender Spaziergang zwischen Wolkenschiff und Sonnenskulptur  
+Sonntag 1. Mai um 15 Uhr   
+[**"Ein klingender Spaziergang zwischen Wolkenschiff und Sonnenskulptur"**](/veranstaltungen/2022/spaziergang/)   
 mit Prof. Dr. Lydia Maidl (Texte) und Günter Schwanghart (Klarinetten-Improvisationen)
 
 Sonntag, 15. Mai Internationaler Museumstag
