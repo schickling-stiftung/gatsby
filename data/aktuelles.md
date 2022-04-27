@@ -14,3 +14,5 @@ Die Matinée am 1.Mai ist abgesagt.
 
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
+
+[**Ausstellung Gempfing im Video**](https://www.katholisch1.tv/Videos/Schickling-Ausstellung_im_Gempfinger_Pfarrhof_Donnerstag_31._Maerz_2022_12_25_00/)
