@@ -29,11 +29,9 @@ Sonntag 1. Mai um 15 Uhr
 [**"Ein klingender Spaziergang zwischen Wolkenschiff und Sonnenskulptur"**](/veranstaltungen/2022/spaziergang/)   
 mit Prof. Dr. Lydia Maidl (Texte) und Günter Schwanghart (Klarinetten-Improvisationen)
 
-Sonntag, 15. Mai Internationaler Museumstag
-
-11 Uhr Matinee zum 10. Todesjahr von Erich Schickling  
-„Der Thoraschreiber“  
-Erzählt von Alexander Kostinskij   
+Sonntag, 15. Mai Internationaler Museumstag  
+11 Uhr [**Matinee „Der Thoraschreiber“**](/veranstaltungen/2022/thoraschreiber/)   
+Der Dichter, Erzähler und Zeichner Alexander Kostinskij   
 Musikalisch gestaltet vom Trio Kleznova: Günter Schwanghart (Klarinette), Enes Ludwig (Gitarre), Alwin Zwibel (Kontrabass)
 
 15 - 18 Uhr Freier Besuch der Ausstellungsräume

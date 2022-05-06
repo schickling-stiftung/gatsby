@@ -4,10 +4,11 @@ title: Aktuelles
 Führungen sonntags um 15 Uhr 
 [Weitere Info](/fuehrungen/)
    
-Sonderführung am 1. Mai:  
-[**"Klingender Spaziergang"**](/veranstaltungen/2022/spaziergang/)
+ 
+15.Mai um 11 Uhr Matinee   
+[**"Der Thoraschreiber"**](/veranstaltungen/2022/thoraschreiber/)
    
-Die Matinée am 1.Mai ist abgesagt.
+
   
 
 [BildImpuls Ostermorgen](https://www.bildimpuls.de/bildimpulsart/ostermorgen/)  
