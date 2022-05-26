@@ -5,13 +5,13 @@ Führungen sonntags um 15 Uhr
 [Weitere Info](/fuehrungen/)
    
  
-15.Mai um 11 Uhr Matinee   
-[**"Der Thoraschreiber"**](/veranstaltungen/2022/thoraschreiber/)
+29.Mai um 16.30 Uhr  
+[**"Konzert nach der Führung"**](/veranstaltungen/2022/minkuslieder/) mit Renate Minkus, Sopran
    
 
-  
 
-[BildImpuls Ostermorgen](https://www.bildimpuls.de/bildimpulsart/ostermorgen/)  
+Pfingstmontag, 6. Juni um 17 Uhr
+[**Konzert In memoriam Kaya Han**](/veranstaltungen/2022/fuerkaya/)
 
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)

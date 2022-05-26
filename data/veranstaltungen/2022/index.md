@@ -5,7 +5,7 @@ images:
   - file: g-halle.jpg
   - file: g-kaya.jpg
   - file: g-heimsuchung.jpg
-thought: /bildgedanken/20220304derschrei/
+thought: /bildgedanken/ostermorgen2022/
 subnav:
   - text: '2021'
     link: /veranstaltungen/2021/
@@ -36,12 +36,12 @@ Musikalisch gestaltet vom Trio Kleznova: Günter Schwanghart (Klarinette), Ene
 
 15 - 18 Uhr Freier Besuch der Ausstellungsräume
 
-Sonntag, 29. Mai  um 16.30 Uhr Konzert nach der Führung  
+[**Sonntag, 29. Mai  um 16.30 Uhr Konzert nach der Führung**](/veranstaltungen/2022/minkuslieder/)  
 Mit Renate Minkus (Sopran) und Thomas Kaiser (Klavier)  
 Die Memminger Sopranistin und ihr Liedpartner am Flügel präsentieren ihr frühsommerliches Programm „Im Rosengarten“ mit Liedern und Klavierstücken von Purcell, Scarlatti, Mozart, Schubert, Mendelssohn-Bartholdy und Schumann.
 
-Pfingstmontag, 6. Juni um 17 Uhr  
-In memoriam Kaya Han  
+[**Pfingstmontag, 6. Juni um 17 Uhr  
+In memoriam Kaya Han**](/veranstaltungen/2022/fuerkaya/)
 mit Werken u.a. von Bach, Mozart, Schubert, Brahms  
 Ein Gedenkkonzert der Musikerfreunde für die koreanische Pianistin, Künstlerin und Klavierprofessorin
 

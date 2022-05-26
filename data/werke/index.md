@@ -7,7 +7,7 @@ images:
    file: g-betonglasfenster.jpg
  - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/20220304derschrei/
+thought: /bildgedanken/ostermorgen2022/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/
