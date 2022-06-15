@@ -6,9 +6,13 @@ Führungen sonntags um 15 Uhr
    
 
 
-Pfingstmontag, 6. Juni um 17 Uhr
-[**Konzert In memoriam Kaya Han**](/veranstaltungen/2022/fuerkaya/)
+Samstag, 18. Juni um 18 Uhr   
+[**Wege der Liebe**](/veranstaltungen/2022/duette/) Duette und Lieder der Romantik
 
+Freitag, 1. Juli 18 Uhr [**Lied-Recital mit Zhuohan Sun (Tenor) und Yuriko Watanabe (Klavier)**](/veranstaltungen/2022/zhuohan/)  
+
+Sonntag, 3. Juli 11 Uhr Matinee vokal
+[**"Liebeslieder" von Robert Schumann**](/veranstaltungen/2022/liebeslieder/)
 
 [**Projekt Spiritual Care und Kunst**](/spiritualcare/)
 

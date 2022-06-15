@@ -45,23 +45,20 @@ In memoriam Kaya Han**](/veranstaltungen/2022/fuerkaya/)
 mit Werken u.a. von Bach, Mozart, Schubert, Brahms  
 Ein Gedenkkonzert der Musikerfreunde für die koreanische Pianistin, Künstlerin und Klavierprofessorin
 
-Samstag, 18. Juni um 18 Uhr  
-„Wege der Liebe“  
+[**Samstag, 18. Juni um 18 Uhr „Wege der Liebe“**](/veranstaltungen/2022/duette/)  
 Duette und Lieder von Mozart, Brahms, Schumann, Liszt, Rubinstein, Fauré und Tosti   
 Lisa Wittig, Sopran; Carlotta Lipski, Mezzosopran; Hyun-hwa Park, Klavier
 
-Freitag, 1. Juli um 18 Uhr	
-„Die schöne Müllerin“  
-Liederzyklus von Franz Schubert, komp. 1823  
-Kieran Carrell, Tenor  
-Hartmut Höll, Klavier
+[**Freitag, 1. Juli um 18 Uhr**](/veranstaltungen/2022/zhuohan/)
+„Die schöne Müllerin“ von Franz Schubert mit Kieran Carrell (Tenor) und Hartmut Höll (Klavier) muss auf 2023 verschoben werden. 
+Stattdessen wird der international ausgezeichnete Tenor Zhuohan Sun aus China mit seiner Liedpartnerin Yuriko Watanabe am Klavier ein Recital geben.
 
-Sonntag, 3. Juli um 11 Uhr Matinee
+[**Sonntag, 3. Juli um 11 Uhr Matinee**](/veranstaltungen/2022/liebeslieder/)
 Spanische Liebeslieder von Robert Schumann  
 Spanisches Liederspiel op. 74 nach Emanuel Geibel   
 Spanische Liebeslieder op. 138  
 Zwei Zyklen von Gesängen aus dem Spanischen für eine und mehrere Singstimmen mit Begleitung des Pianoforte und Pianoforte vierhändig  
-Mit Ana Carolina Coutinho, Sopran; Yajie Zhang, Mezzosopran; Zhuohan Sun, Tenor; Gabriel Rollinson, Bariton  
+Mit Ana Carolina Coutinho, Sopran; Helena Donie, Mezzosopran; Zhuohan Sun, Tenor; Gabriel Rollinson, Bariton  
 Ulrike Meyer und Hartmut Höll, Klavier 
 
 Sonntag, 24. Juli um 16.30 Uhr Konzert nach der Führung  
