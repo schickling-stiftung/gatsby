@@ -6,9 +6,6 @@ Führungen sonntags um 15 Uhr
    
 
 
-Samstag, 18. Juni um 18 Uhr   
-[**Wege der Liebe**](/veranstaltungen/2022/duette/) Duette und Lieder - Wegen Erkrankung leider abgesagt!
-
 Freitag, 1. Juli 18 Uhr [**Lied-Recital mit Zhuohan Sun (Tenor) und Yuriko Watanabe (Klavier)**](/veranstaltungen/2022/zhuohan/)  
 
 Sonntag, 3. Juli 11 Uhr Matinee vokal
