@@ -6,11 +6,11 @@ Führungen sonntags um 15 Uhr
    
 
 
-Freitag, 1. Juli 18 Uhr [**Lied-Recital mit Zhuohan Sun (Tenor) und Yuriko Watanabe (Klavier)**](/veranstaltungen/2022/zhuohan/)  
+Sonntag, 24. Juli 16.30 Uhr Konzert nach der Führung
+[**Peer Bohn, Violine**](/veranstaltungen/2022/peervioline/)  
 
-Sonntag, 3. Juli 11 Uhr Matinee vokal
-[**"Liebeslieder" von Robert Schumann**](/veranstaltungen/2022/liebeslieder/)
+Sonntag, 31. Juli um 17 Uhr
+[**Soiree   
+der Großfamilie Hopfenzitz**](/veranstaltungen/2022/hopfenzitz/)
 
-[**Projekt Spiritual Care und Kunst**](/spiritualcare/)
-
-[**Ausstellung Gempfing im Video**](https://www.katholisch1.tv/Videos/Schickling-Ausstellung_im_Gempfinger_Pfarrhof_Donnerstag_31._Maerz_2022_12_25_00/)
+[**Projekt Spiritual Care und Kunst**](/veranstaltungen/2022/spircare/)

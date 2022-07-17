@@ -61,12 +61,12 @@ Zwei Zyklen von Gesängen aus dem Spanischen für eine und mehrere Singstimmen m
 Mit Ana Carolina Coutinho, Sopran; Helena Donie, Mezzosopran; Zhuohan Sun, Tenor; Gabriel Rollinson, Bariton  
 Ulrike Meyer und Hartmut Höll, Klavier 
 
-Sonntag, 24. Juli um 16.30 Uhr Konzert nach der Führung  
-Recital mit Peer Bohn an der Violine  
+[**Sonntag, 24. Juli um 16.30 Uhr Konzert nach der Führung**](/veranstaltungen/2022/peervioline/)  
+Recital mit Peer Bohn an der Violine     
 Am Klavier: Sebastian Salvaterra  
-Werke von Bach, Mozart, Paganini, Vieuxtemps
+Werke von Bach, Mozart, Paganini, Vieuxtemps  
 
-Sonntag, 31. Juli um 17 Uhr
+[**Sonntag, 31. Juli um 17 Uhr**](/veranstaltungen/2022/hopfenzitz/)
 „Und meine Seele spannte weit ihre Flügel aus“ (Eichendorff)  
 Konzert der Großfamilie Hopfenzitz
 
