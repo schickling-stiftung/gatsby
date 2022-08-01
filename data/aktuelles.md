@@ -6,11 +6,14 @@ Führungen sonntags um 15 Uhr
    
 
 
-Sonntag, 24. Juli 16.30 Uhr Konzert nach der Führung
-[**Peer Bohn, Violine**](/veranstaltungen/2022/peervioline/)  
+Samstag, 6. August um 18 Uhr
+[**Konzert der Geschwister Kammenos**](/veranstaltungen/2022/kammenos/)  
 
-Sonntag, 31. Juli um 17 Uhr
-[**Soiree   
-der Großfamilie Hopfenzitz**](/veranstaltungen/2022/hopfenzitz/)
+Sonntag, 7. Juli 15 Uhr Sonderführung 
+[**Spiritual Care und Kunst**](/veranstaltungen/2022/spircare/)
 
-[**Projekt Spiritual Care und Kunst**](/veranstaltungen/2022/spircare/)
+Freitag - Sonntag 26. bis 28. August  
+[**21. Eggisrieder Seminar für Musik und Transzendenz**](/veranstaltungen/2022/seminar2022/)
+
+Samstag, 27. August um 18 Uhr
+[**Meisterkonzert mit Andrej Jussow**](/veranstaltungen/2022/jussow/)
