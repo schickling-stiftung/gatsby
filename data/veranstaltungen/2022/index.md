@@ -83,10 +83,10 @@ Ausführliches Programm [**hier**](/veranstaltungen/2022/seminar2022/).
 [**Samstag, 27. August um 18 Uhr Meisterkonzert mit Andrej Jussow**](/veranstaltungen/2022/jussow/)  
 Werke von Beethoven, Chopin und Debussy      
 
-Samstag, 10. September um 18 Uhr  
-Klavier-Recital mit Carmen Piazzini  
+[**Samstag, 10. September um 18 Uhr  
+Klavier-Recital mit Carmen Piazzini**](/veranstaltungen/2022/piazzini/)  
 Werke von Haydn, Brahms, Ginastera, Piazzola
 
-Samstag, 17. September um 16 Uhr   
-Kammermusik mit dem Trio BBB  
+[**Samstag, 17. September um 16 Uhr   
+Kammermusik mit dem Trio BBB**](/veranstaltungen/2022/triobbb/)  
 Kathrin Bäz, Soloflötistin der Dresdner Philharmonie und Daniel Bäz, ebenda Solofagottist musizieren zusammen mit der Karlsruher Pianistin Melanie Bähr Werke von Haydn, Brahms und Gaubert in dieser seltenen Besetzung.  
