@@ -5,7 +5,7 @@ images:
   - file: g-sonne.jpg
   - file: g-eggseminar.jpg
   - file: g-benedict.jpg
-thought: /bildgedanken/20220304derschrei/ 
+thought: /bildgedanken/heimsuchung/ 
 --- 
 [Jahresprogramm 2021](/veranstaltungen/2021/)  
 [Jahresprogramm 2022](/veranstaltungen/2022/) 

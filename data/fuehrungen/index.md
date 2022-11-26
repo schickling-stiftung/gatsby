@@ -2,28 +2,20 @@
 title: Führungen
 ---
 
-#Sonntagsführungen:
+# Besichtigungen und Führungen
 
 
-Jeden Sonntag um 15 Uhr voraussichtlich bis Ende Oktober
-
+In den Monaten November bis März sind Besichtigungen und Führungen auf Anfrage möglich. Die Ausstellungsräume sind jedoch nicht beheizt.
 
 Treffpunkt bei der Brücke am Parkplatz.   
-  
-Anmeldung empfohlen!  
+    
 Tel. 08332-936424 oder 0171.9715083    
 email: info@schickling-stiftung.de  
 
 Eintritt 5 €  
 Führung incl. Eintritt 10 € 
 
-Weitere Führungen für Gruppen nach Vereinbarung
-
-#Weitere Öffnungszeiten:
-Auf Anfrage meistens möglich.
-
-
-Mitglieder des Förderkreises der Erich-Schickling-Stiftung e.V. haben freien Eintritt.
+Führungen für Gruppen in 2023 können jetzt schon vereinbart werden.
 
 
 

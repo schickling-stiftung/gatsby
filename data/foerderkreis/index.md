@@ -7,7 +7,7 @@ images:
     file: g-glockenturm.jpg
   - link: /foerderkreis/konzertraum/
     file: g-konzertraum.jpg
-thought: /bildgedanken/ostermorgen2022/
+thought: /bildgedanken/heimsuchung/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

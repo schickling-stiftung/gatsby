@@ -5,7 +5,7 @@ images:
   - file: g-halle.jpg
   - file: g-kaya.jpg
   - file: g-heimsuchung.jpg
-thought: /bildgedanken/ostermorgen2022/
+thought: /bildgedanken/heimsuchung/
 subnav:
   - text: '2021'
     link: /veranstaltungen/2021/

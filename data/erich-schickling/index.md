@@ -9,7 +9,7 @@ images:
     file: g-orpheuseurydike.jpg
   - link: #
     file: g-leo.jpg
-thought: /bildgedanken/ostermorgen2022/
+thought: /bildgedanken/heimsuchung/
 subnav:
   - text: Der Künstler
     link: /erich-schickling/
