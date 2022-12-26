@@ -9,7 +9,7 @@ images:
     file: g-orpheuseurydike.jpg
   - link: #
     file: g-leo.jpg
-thought: /bildgedanken/heimsuchung/
+thought: /bildgedanken/weihnachten-2022simeon/
 subnav:
   - text: Der Künstler
     link: /erich-schickling/

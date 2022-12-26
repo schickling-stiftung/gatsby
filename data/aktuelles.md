@@ -2,10 +2,11 @@
 title: Aktuelles
 ---
 [Info](/fuehrungen/) Besichtigungen und Führungen
+
+Das Veranstaltungsprogramm 2023 ist im Entstehen
    
  
 
 
-Wir wünschen Ihnen eine gute Adventszeit!
-
-[**Mondnacht im Winter**](/bildgedanken/advent22mondnacht/)
+[**FROHE WEIHNACHTEN**](/bildgedanken/weihnachten-2022/)
+und ein Gutes Neues Jahr!

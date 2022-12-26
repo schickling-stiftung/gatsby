@@ -7,7 +7,7 @@ images:
    file: g-betonglasfenster.jpg
  - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/heimsuchung/
+thought: /bildgedanken/weihnachten-2022simeon/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/

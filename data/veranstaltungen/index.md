@@ -5,7 +5,7 @@ images:
   - file: g-sonne.jpg
   - file: g-eggseminar.jpg
   - file: g-benedict.jpg
-thought: /bildgedanken/heimsuchung/ 
+thought: /bildgedanken/weihnachten-2022simeon/ 
 --- 
 [Jahresprogramm 2021](/veranstaltungen/2021/)  
 [Jahresprogramm 2022](/veranstaltungen/2022/) 
