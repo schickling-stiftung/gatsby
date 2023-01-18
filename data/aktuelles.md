@@ -3,10 +3,9 @@ title: Aktuelles
 ---
 [Info](/fuehrungen/) Besichtigungen und Führungen
 
-Das Veranstaltungsprogramm 2023 ist im Entstehen
+Das Veranstaltungsprogramm 2023 sowie die Neugestaltung unserer Homepage ist in Vorbereitung.
    
  
 
 
-[**FROHE WEIHNACHTEN**](/bildgedanken/weihnachten-2022/)
-und ein Gutes Neues Jahr!
+[**Im Neuen Jahr 2023**](/bildgedanken/2023benedikt-2014/) freuen wir uns auf Ihren Besuch!
