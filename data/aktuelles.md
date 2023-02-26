@@ -3,9 +3,9 @@ title: Aktuelles
 ---
 [Info](/fuehrungen/) Besichtigungen und Führungen
 
-Das Veranstaltungsprogramm 2023 sowie die Neugestaltung unserer Homepage ist in Vorbereitung.
-   
- 
+Das [Veranstaltungsprogramm 2023](/veranstaltungen/2023/) finden Sie als Flyer ab sofort in der Stiftung und im Kulturamt Ottobeuren.
+  
+Anmeldung zu den Veranstaltungen unter     info@schickling-stiftung.de
 
 
-[**Im Neuen Jahr 2023**](/bildgedanken/2023benedikt-2014/) freuen wir uns auf Ihren Besuch!
+

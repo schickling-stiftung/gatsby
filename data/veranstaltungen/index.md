@@ -5,10 +5,10 @@ images:
   - file: g-sonne.jpg
   - file: g-eggseminar.jpg
   - file: g-benedict.jpg
-thought: /bildgedanken/weihnachten-2022simeon/ 
+thought: /bildgedanken/2023benedikt-2014/ 
 --- 
-[Jahresprogramm 2021](/veranstaltungen/2021/)  
-[Jahresprogramm 2022](/veranstaltungen/2022/) 
+[Jahresprogramm 2022](/veranstaltungen/2022/)   
+[Jahresprogramm 2023](/veranstaltungen/2023/) 
 
 Alle unsere Künstler und Referenten sind ehrenamtlich für die Stiftung tätig. Sie sind dem Hause Schickling in besonderer Weise verbunden. Ihnen gilt zuerst unser Dank! Manche kommen immer wieder zu uns und machen ihr Wort, ihre Musik, ihre Kunst allen zum Geschenk. Junge Musiker erproben hier gerne ihre Programme vor einem wohlgesonnenen Publikum.
 

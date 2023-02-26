@@ -5,12 +5,12 @@ images:
   - file: g-halle.jpg
   - file: g-kaya.jpg
   - file: g-heimsuchung.jpg
-thought: /bildgedanken/heimsuchung/
+thought: /bildgedanken/2023benedikt-2014/
 subnav:
-  - text: '2021'
-    link: /veranstaltungen/2021/
   - text: '2022'
     link: /veranstaltungen/2022/
+  - text: '2023'
+    link: /veranstaltungen/2023/
 ---
 
 **VERANSTALTUNGEN 2022**   

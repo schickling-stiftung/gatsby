@@ -7,7 +7,7 @@ images:
     file: g-glockenturm.jpg
   - link: /foerderkreis/konzertraum/
     file: g-konzertraum.jpg
-thought: /bildgedanken/weihnachten-2022simeon/
+thought: /bildgedanken/2023benedikt-2014/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/
