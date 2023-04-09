@@ -20,13 +20,13 @@ So können wir Sie auch kurzfristig verständigen bei unvorhergesehenen Änderun
 
 
 
-**Sonntag, 16. April 11 Uhr Matinee zur Osterzeit**
+[**Sonntag, 16. April 11 Uhr Matinee zur Osterzeit**](/veranstaltungen/2023/klezmermatinee/)
 
 Texte und Gedanken mit Christine Silla-Kiefer (Bad Wurzach). Die Musiker Josef Bichlmair (Zither) und Günter Schwanghart (Klarinette) 
 entführen in die träumerische Welt des Klezmer.
 
 
-**Sonntag, 30. April um 16.30 Uhr  Konzert nach der Führung**
+[**Sonntag, 30. April um 16.30 Uhr  Konzert nach der Führung**](/veranstaltungen/2023/violineweismann/)
 
 Mit dem Duo: Annette Dorothée Weismann, Violine, und Eva Schieferstein, Klavier  
 Werke von Bach, Vivaldi, Telemann, Mozart, Mendelssohn und Massenet 
