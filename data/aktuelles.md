@@ -1,8 +1,9 @@
 ---
 title: Aktuelles
 ---
-[Info](/fuehrungen/) Besichtigungen und Führungen
-
+Führungen sonntags um 15 Uhr.
+Weitere Termine für Gruppen nach Vereinbarung. [Info](/fuehrungen/)
+  
 Das [Veranstaltungsprogramm 2023](/veranstaltungen/2023/) finden Sie als Flyer ab sofort in der Stiftung und im Kulturamt Ottobeuren.
   
 Anmeldung zu den Veranstaltungen unter     info@schickling-stiftung.de

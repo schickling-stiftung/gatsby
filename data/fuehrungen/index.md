@@ -5,7 +5,7 @@ title: Führungen
 # Besichtigungen und Führungen
 
 
-In den Monaten November bis März sind Besichtigungen und Führungen auf Anfrage möglich. Die Ausstellungsräume sind jedoch nicht beheizt.
+Von April bis Oktober finden regelmäßig sonntags um 15 Uhr Führungen durch die Stiftung statt. Anmeldung wird empfohlen.  
 
 Treffpunkt bei der Brücke am Parkplatz.   
     
@@ -15,8 +15,7 @@ email: info@schickling-stiftung.de
 Eintritt 5 €  
 Führung incl. Eintritt 10 € 
 
-Führungen für Gruppen in 2023 können jetzt schon vereinbart werden.
-
+Weitere Termine für Führungen (für Gruppen) und Besichtigungen können vereinbart werden.
 
 
 
