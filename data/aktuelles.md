@@ -8,9 +8,11 @@ Das [Veranstaltungsprogramm 2023](/veranstaltungen/2023/) finden Sie als Flyer a
   
 Anmeldung zu den Veranstaltungen unter     info@schickling-stiftung.de
 
+[**Sonntag, 14. Mai um 11 Uhr   
+Matinee zum Muttertag**](/veranstaltungen/2023/muttertag/)
 
-[**Sonntag, 16. April um 11 Uhr
-Matinee zur Osterzeit**](/veranstaltungen/2023/klezmermatinee/)
 
-[**Sonntag, 30. April um 16.30 Uhr
-Konzert nach der Führung**](/veranstaltungen/2023/violineweismann/)
+[**Sonntag, 21. Mai Museumstag**](/veranstaltungen/2023/museumstag/)
+[**Sonntag, 21. Mai um 17 Uhr Tiramisu**](/veranstaltungen/2023/museumstag/)
+
+[**Pfingstmontag, 29. Mai um 17 Uhr Klaviermusik mit Arabella Pare**](/veranstaltungen/2023/pfingstmontag/)

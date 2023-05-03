@@ -32,7 +32,7 @@ Mit dem Duo: Annette Dorothée Weismann, Violine, und Eva Schieferstein, Klavie
 Werke von Bach, Vivaldi, Telemann, Mozart, Mendelssohn und Massenet 
 
 
-**Sonntag, 14. Mai um 11 Uhr Matinee zum Muttertag**  
+[**Sonntag, 14. Mai um 11 Uhr Matinee zum Muttertag**](/veranstaltungen/2023/muttertag/)  
 Kinderlieder großer Komponisten für kleine und große Kinder  
 von Schumann, R. Strauss, Gieseking, Poulenc, Bernstein
 
@@ -41,14 +41,14 @@ Magdalena Wolfarth, Klavier
 Die Pianistin Magdalena Wolfarth zeichnet sich durch ihre fantasiereichen Programmgestaltungen aus, in denen sie Wohlbekanntes wie auch Seltenes und Experimentelles aus der jüngeren Musikliteratur spannend auffädelt. Mit ihrem Gesangsensemble führt sie durch englische, französische und deutsche Kinderwelten.
 
 
-**Sonntag 21. Mai Museumstag**
+[**Sonntag 21. Mai Museumstag**](/veranstaltungen/2023/museumstag/)
 
 10 - 12 Uhr Freier Eintritt in die Ausstellungsräume  
 15 Uhr Führung durch die Stiftung  
-17 Uhr Musikalische Improvisationen
+17 Uhr TIRAMISU in Eggisried
 
 
-**Pfingstmontag 29. Mai um 17 Uhr	 Pfingsten in Eggisried**
+[**Pfingstmontag 29. Mai um 17 Uhr	 Pfingsten in Eggisried**](/veranstaltungen/2023/pfingstmontag/)
 
 „Prélude“ Brückenschlag: Johann Sebastian Bach und Alexander Skrjabin
 Moderiertes Klavier-Recital mit Prof. Dr. Arabella Pare 
