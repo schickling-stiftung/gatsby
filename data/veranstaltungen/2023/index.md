@@ -32,7 +32,8 @@ Mit dem Duo: Annette Dorothée Weismann, Violine, und Eva Schieferstein, Klavie
 Werke von Bach, Vivaldi, Telemann, Mozart, Mendelssohn und Massenet 
 
 
-[**Sonntag, 14. Mai um 11 Uhr Matinee zum Muttertag**](/veranstaltungen/2023/muttertag/)  
+[**Sonntag, 14. Mai um 11 Uhr Matinee**](/veranstaltungen/2023/muttertag/)   
+VERLEGT AUF SONNTAG, 16. JULI um 11 UHR   
 Kinderlieder großer Komponisten für kleine und große Kinder  
 von Schumann, R. Strauss, Gieseking, Poulenc, Bernstein
 
