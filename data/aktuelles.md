@@ -10,8 +10,7 @@ Anmeldung zu den Veranstaltungen unter     info@schickling-stiftung.de
 
 
 
-[**Sonntag, 21. Mai Museumstag**](/veranstaltungen/2023/museumstag/)
-  
-[**Sonntag, 21. Mai um 17 Uhr Tiramisu**](/veranstaltungen/2023/museumstag/)
-
 [**Pfingstmontag, 29. Mai um 17 Uhr Klaviermusik mit Arabella Pare**](/veranstaltungen/2023/pfingstmontag/)
+
+[**Samstag, 17. Juni um 17 Uhr
+Orpheus und Eurydike - zwei Perspektiven**](/veranstaltungen/2023/orpheus23/)
