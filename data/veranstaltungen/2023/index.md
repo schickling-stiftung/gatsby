@@ -66,12 +66,12 @@ Analyse und Deutungsmöglichkeiten
 Mit Dr. Gertrud Roth-Bojadzhiev (Augsburg) und Prof. Dr. Lydia Maidl (Tübingen)
 
 
-**Freitag 30. Juni um 18 Uhr	 „Die schöne Müllerin“**  
+[**Freitag 30. Juni um 18 Uhr	 „Die schöne Müllerin“**](/veranstaltungen/2023/muellerin/)   
 Mit Kieran Carrell, Tenor, und Hartmut Höll, Klavier
 
 
-**Sonntag 2. Juli um 11 Uhr 	Romantische Matinee** mit dem Lied-Duo
-Zhuohan Sun (Tenor) und Yuriko Watanabe (Klavier)
+[**Sonntag 2. Juli um 11 Uhr Gustav Mahler mit dem Liedduo Yajie Zhang und Hartmut Höll**](/veranstaltungen/2023/mahlermatinee/)
+
 
 Die Klasse für Liedgestaltung der Hochschule für Musik Karlsruhe unter Leitung der Sängerin Prof. Dr.h.c. Mitsuko Shirai und des Pianisten Prof. Hartmut Höll steht in der Tradition der hohen Liedkunst eines Dietrich Fischer-Dieskau. Eine junge international besetzte Generation gibt dem Liedgesang neue Impulse und schätzt die publikumsnahen Auftritte in der Erich-Schickling-Stiftung.
 
