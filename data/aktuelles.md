@@ -10,7 +10,16 @@ Anmeldung zu den Veranstaltungen unter     info@schickling-stiftung.de
 
 
 
-[**Pfingstmontag, 29. Mai um 17 Uhr Klaviermusik mit Arabella Pare**](/veranstaltungen/2023/pfingstmontag/)
+[**Samstag, 17. Juni um 17 Uhr Orpheus und Eurydike**](/veranstaltungen/2023/orpheus23/)
 
-[**Samstag, 17. Juni um 17 Uhr
-Orpheus und Eurydike - zwei Perspektiven**](/veranstaltungen/2023/orpheus23/)
+[**Samstag, 24. Juni 13.30 - 16.30 Uhr   
+Auf Glückswegen zur Gesundheit**](/veranstaltungen/2023/gesundheitstag/)
+
+KONZERTE:
+
+[**Freitag, 30. Juni um 18 Uhr.     
+"Die schöne Müllerin"**](/veranstaltungen/2023/muellerin/)   
+von Franz Schubert
+
+[**Sonntag, 2. Juli um 11 Uhr. 
+LiedMatinee Gustav Mahler**](/veranstaltungen/2023/mahlermatinee/)
