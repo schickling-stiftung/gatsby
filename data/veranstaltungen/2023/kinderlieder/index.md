@@ -3,10 +3,10 @@ layout: image
 image: image.jpg
 ---
 
-# Matinee zum Muttertag
+# Matinee KinderLieder
    
 
-Sonntag, 14. Mai um 11 Uhr
+Sonntag, 16. Juli um 11 Uhr (Verschobenes Konzert)
 
 Kinderlieder großer Komponisten für kleine und große Kinder. 
 von Schumann, R. Strauss, Gieseking, Poulenc, Strasfogel, Bernstein. 

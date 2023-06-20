@@ -8,10 +8,6 @@ Das [Veranstaltungsprogramm 2023](/veranstaltungen/2023/) finden Sie als Flyer a
   
 Anmeldung zu den Veranstaltungen unter     info@schickling-stiftung.de
 
-
-
-[**Samstag, 17. Juni um 17 Uhr Orpheus und Eurydike**](/veranstaltungen/2023/orpheus23/)
-
 [**Samstag, 24. Juni 13.30 - 16.30 Uhr   
 Auf Glückswegen zur Gesundheit**](/veranstaltungen/2023/gesundheitstag/)
 
@@ -23,3 +19,10 @@ von Franz Schubert
 
 [**Sonntag, 2. Juli um 11 Uhr. 
 LiedMatinee Gustav Mahler**](/veranstaltungen/2023/mahlermatinee/)
+
+
+[**Sonntag, 16. Juli um 11 Uhr  
+KinderLieder**](/veranstaltungen/2023/kinderlieder/)
+
+
+
