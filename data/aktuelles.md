@@ -8,8 +8,6 @@ Das [Veranstaltungsprogramm 2023](/veranstaltungen/2023/) finden Sie als Flyer a
   
 Anmeldung zu den Veranstaltungen unter     info@schickling-stiftung.de
 
-[**Samstag, 24. Juni 13.30 - 16.30 Uhr   
-Auf Glückswegen zur Gesundheit**](/veranstaltungen/2023/gesundheitstag/)
 
 KONZERTE:
 
