@@ -11,16 +11,12 @@ Anmeldung zu den Veranstaltungen unter     info@schickling-stiftung.de
 
 KONZERTE:
 
-[**Freitag, 30. Juni um 18 Uhr.     
-"Die schöne Müllerin"**](/veranstaltungen/2023/muellerin/)   
-von Franz Schubert
-
-[**Sonntag, 2. Juli um 11 Uhr. 
-LiedMatinee Gustav Mahler**](/veranstaltungen/2023/mahlermatinee/)
-
-
 [**Sonntag, 16. Juli um 11 Uhr  
-KinderLieder**](/veranstaltungen/2023/kinderlieder/)
+KinderLieder großer Komponisten**](/veranstaltungen/2023/kinderlieder/)
+
+[**Samstag, 26. August um 18 Uhr Konzertabend mit dem KlavierDuo Anna Zassimova & Christophe Sirodeau**](/veranstaltungen/2023/klavierduo/)
+
+[**22. Eggisrieder Seminar für Musik und Transzendenz großer Komponisten**](/veranstaltungen/2023/seminar2023/)
 
 
 

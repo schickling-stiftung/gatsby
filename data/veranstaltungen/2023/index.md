@@ -32,14 +32,7 @@ Mit dem Duo: Annette Dorothée Weismann, Violine, und Eva Schieferstein, Klavie
 Werke von Bach, Vivaldi, Telemann, Mozart, Mendelssohn und Massenet 
 
 
-[**Sonntag, 14. Mai um 11 Uhr Matinee**](/veranstaltungen/2023/muttertag/)   
-VERLEGT AUF SONNTAG, 16. JULI um 11 UHR   
-Kinderlieder großer Komponisten für kleine und große Kinder  
-von Schumann, R. Strauss, Gieseking, Poulenc, Bernstein
 
-Julia Obert - Sopran,    Carlotta Lipski - Mezzo-Sopran,    Shichao Cheng - Tenor, 
-Magdalena Wolfarth, Klavier   
-Die Pianistin Magdalena Wolfarth zeichnet sich durch ihre fantasiereichen Programmgestaltungen aus, in denen sie Wohlbekanntes wie auch Seltenes und Experimentelles aus der jüngeren Musikliteratur spannend auffädelt. Mit ihrem Gesangsensemble führt sie durch englische, französische und deutsche Kinderwelten.
 
 
 [**Sonntag 21. Mai Museumstag**](/veranstaltungen/2023/museumstag/)
@@ -74,17 +67,22 @@ Mit Kieran Carrell, Tenor, und Hartmut Höll, Klavier
 
 
 Die Klasse für Liedgestaltung der Hochschule für Musik Karlsruhe unter Leitung der Sängerin Prof. Dr.h.c. Mitsuko Shirai und des Pianisten Prof. Hartmut Höll steht in der Tradition der hohen Liedkunst eines Dietrich Fischer-Dieskau. Eine junge international besetzte Generation gibt dem Liedgesang neue Impulse und schätzt die publikumsnahen Auftritte in der Erich-Schickling-Stiftung.
+  
+[**Sonntag, 16. JULI um 11 UHR Matinee**](/veranstaltungen/2023/muttertag/)    
+Kinderlieder großer Komponisten für kleine und große Kinder  
+von Schumann, R. Strauss, Gieseking, Poulenc, Bernstein
 
-
-
+Julia Obert - Sopran,    Carlotta Lipski - Mezzo-Sopran,    Shichao Cheng - Tenor, Magdalena Wolfarth, Klavier   
+Die Pianistin Magdalena Wolfarth zeichnet sich durch ihre fantasiereichen Programmgestaltungen aus, in denen sie Wohlbekanntes wie auch Seltenes und Experimentelles aus der jüngeren Musikliteratur spannend auffädelt. Mit ihrem Gesangsensemble führt sie durch englische, französische und deutsche Kinderwelten.
+  
 Freitag bis Sonntag, 25. - 27. August   
-**22. Eggisrieder Seminar für Musik und Transzendenz**  
+[**22. Eggisrieder Seminar für Musik und Transzendenz**](/veranstaltungen/2023/seminar22/)
 Musik gemeinsam hören, erleben und verstehen!   
 Offen für Musizierende, Studierende, musikalisch motivierte Jugendliche sowie Zuhörende und Mitdenkende!  
 Konzerte, Vorträge, Einführungen, Gesprächsrunden, Bildbetrachtungen.  
 Ausführliches Seminarprogramm anfragen!
 
-**Samstag, 26. August um 18 Uhr Meisterkonzert**  
+[**Samstag, 26. August um 18 Uhr Meisterkonzert**](/veranstaltungen/2023/klavierduo/)  
 im Eggisrieder Seminar  
 Mit dem Klavierduo Anna Zassimova und Christophe Sirodeau  
 Werke von Dvorak, Ravel, Fauré, Lili Boulanger, Astor Piazzola
