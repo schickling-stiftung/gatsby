@@ -11,12 +11,13 @@ Anmeldung zu den Veranstaltungen unter     info@schickling-stiftung.de
 
 KONZERTE:
 
-[**Sonntag, 16. Juli um 11 Uhr  
-KinderLieder großer Komponisten**](/veranstaltungen/2023/kinderlieder/)
 
 [**Samstag, 26. August um 18 Uhr Konzertabend mit dem KlavierDuo Anna Zassimova & Christophe Sirodeau**](/veranstaltungen/2023/klavierduo/)
 
-[**22. Eggisrieder Seminar für Musik und Transzendenz großer Komponisten**](/veranstaltungen/2023/seminar2023/)
+[**22. Eggisrieder Seminar für Musik und Transzendenz**](/veranstaltungen/2023/seminar2023/) 25. - 27. August
 
 
+[**Samstag, 2. Sept. um 18 Uhr Konzert mit den Geschwistern Kammenos**](/veranstaltungen/2023/kammenos23/)
+
+[**Sonntag, 17. September um 16.30 Uhr Konzert nach der Führung**](/veranstaltungen/2023/drevlow/) mit Brayden Drevlows Reiseberichten am Klavier
 

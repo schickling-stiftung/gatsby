@@ -76,11 +76,10 @@ Julia Obert - Sopran,    Carlotta Lipski - Mezzo-Sopran,    Shichao Cheng - Teno
 Die Pianistin Magdalena Wolfarth zeichnet sich durch ihre fantasiereichen Programmgestaltungen aus, in denen sie Wohlbekanntes wie auch Seltenes und Experimentelles aus der jüngeren Musikliteratur spannend auffädelt. Mit ihrem Gesangsensemble führt sie durch englische, französische und deutsche Kinderwelten.
   
 Freitag bis Sonntag, 25. - 27. August   
-[**22. Eggisrieder Seminar für Musik und Transzendenz**](/veranstaltungen/2023/seminar22/)
+[**22. Eggisrieder Seminar für Musik und Transzendenz**](/veranstaltungen/2023/seminar2023/).  
 Musik gemeinsam hören, erleben und verstehen!   
 Offen für Musizierende, Studierende, musikalisch motivierte Jugendliche sowie Zuhörende und Mitdenkende!  
 Konzerte, Vorträge, Einführungen, Gesprächsrunden, Bildbetrachtungen.  
-Ausführliches Seminarprogramm anfragen!
 
 [**Samstag, 26. August um 18 Uhr Meisterkonzert**](/veranstaltungen/2023/klavierduo/)  
 im Eggisrieder Seminar  
@@ -92,13 +91,13 @@ Die erste gemeinsame Einspielung „Dvorak – Legenden aus dem Böhmerwald“ e
 
 
 
-**Samstag, 2. September 18 Uhr	„Spätsommerabend“**
+[**Samstag, 2. September 18 Uhr	„Spätsommerabend“**](/veranstaltungen/2023/kammenos23/)
 
 Einladung an alle Generationen zum beliebten Familienkonzert mit den Geschwistern Kammenos aus Remchingen:  
 Evnike (Violine), Andreas (Blockflöte), Aristophanes (Violoncello) und Andromache (Klavier) bieten ein neues Programm von Solo bis Quartett von Bach bis Mendelssohn und Liszt.
 
 
-**Sonntag, 17. September um 16.30 Uhr Konzert nach der Führung**  
+[**Sonntag, 17. September um 16.30 Uhr Konzert nach der Führung**](/veranstaltungen/2023/drevlow/)  
 „Stories around the world“   
 Brayden Drevlows Reiseberichte am Klavier 
 
