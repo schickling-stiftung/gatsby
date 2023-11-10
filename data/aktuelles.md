@@ -1,16 +1,18 @@
 ---
 title: Aktuelles
 ---
-Letzte Sonntagsführungen 2023
-am 15. und 29. Oktober jeweils 15 Uhr.
-Weitere Termine nach Vereinbarung. [Info](/fuehrungen/)
+Von November bis Februar sind Besichtigungen und Führungen nur auf Vereinbarung möglich.  [Info](/fuehrungen/)
   
 
-Anmeldung zu den Veranstaltungen unter     info@schickling-stiftung.de
+Anmeldung unter   
+info@schickling-stiftung.de
 
 
-[**21. und 22. Oktober   
-Kammermusikkurs für Kinder**](/veranstaltungen/2023/kinderkurs/)
+Rückblick auf den   
+[**Kammermusikkurs für Kinder**](/veranstaltungen/2023/kinderkursbericht/)
+
+Veranstaltungen 2024 in Vorbereitung
 
 
 
+[**JUBILÄUMSJAHR 2024**](/veranstaltungen/2024/jubilaeum/)
