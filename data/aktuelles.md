@@ -7,11 +7,14 @@ Von November bis Februar sind Besichtigungen und Führungen nur auf Vereinbarung
 Anmeldung unter   
 info@schickling-stiftung.de
 
+**Der Programmflyer 2024 für unser Jubiläumsjahr ist da!
+In Kürze wird unsere neue Homepage erscheinen.** 
+
 
 Rückblick auf den   
 [**Kammermusikkurs für Kinder**](/veranstaltungen/2023/kinderkursbericht/)
 
-Veranstaltungen 2024 in Vorbereitung
+
 
 
 
